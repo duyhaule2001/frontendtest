@@ -1,0 +1,4733 @@
+{
+  "memberOfCourse": {
+    "managementAccount": "鈴木",
+    "teacherAccount": "千尋",
+    "memberList": [
+      {
+        "id": "1",
+        "department": "O",
+        "emp_no": "12345",
+        "name": "鈴木 一郎",
+        "permissions": 6
+      },
+      {
+        "id": "2",
+        "department": "S",
+        "emp_no": "12345",
+        "name": "鈴木 一郎",
+        "permissions": 6
+      },
+      {
+        "id": "3",
+        "department": "その他",
+        "emp_no": "12345",
+        "name": "鈴木 一郎",
+        "permissions": 6
+      }
+    ]
+  },
+  "reputation": [
+    {
+      "id": "f8a5",
+      "date": "2024-11-08",
+      "username": "a"
+    },
+    {
+      "id": "6ebe",
+      "date": "2024-11-08",
+      "username": "aaaaa"
+    },
+    {
+      "id": "b850",
+      "date": "2024-11-11",
+      "username": "abc"
+    }
+  ],
+  "appointments": {
+    "appointmentsTable": [
+      {
+        "meeting_room_no": 1,
+        "bookings": [
+          {
+            "create_by": "鈴木　千尋",
+            "create_at": "12:15",
+            "content": "abcd",
+            "other": "abcd",
+            "title": "面接",
+            "start_time": "12:15",
+            "end_time": "14:00",
+            "appointments_name": "le duy hau",
+            "type": "オンライン",
+            "date": "2024-06-18"
+          },
+          {
+            "title": "abcd",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "appointments_name": "櫻田test",
+            "date": "2024-06-18",
+            "content": "abcd",
+            "type": "オンライン",
+            "create_by": "le duy hau",
+            "other": "abcddasdasjdaskdkjasdjahsj"
+          }
+        ]
+      },
+      {
+        "meeting_room_no": 2,
+        "bookings": [
+          {
+            "create_by": "le duy hau",
+            "create_at": "12:00",
+            "content": "abcd",
+            "other": "other",
+            "title": "abcd",
+            "start_time": "13:00",
+            "end_time": "14:30",
+            "appointments_name": "櫻田",
+            "type": "社内",
+            "date": "2024-06-18"
+          }
+        ],
+        "record_id": "e4f2",
+        "id": "275b"
+      },
+      {
+        "meeting_room_no": 3,
+        "bookings": [
+          {
+            "create_by": "le duy hau",
+            "create_at": "12:00",
+            "content": "abcd",
+            "other": "other",
+            "title": "abcd",
+            "start_time": "13:00",
+            "end_time": "14:30",
+            "appointments_name": "櫻田",
+            "type": "社内",
+            "date": "2024-06-18"
+          }
+        ],
+        "record_id": "021d",
+        "id": "41aa"
+      },
+      {
+        "meeting_room_no": 4,
+        "bookings": [
+          {
+            "create_by": "le duy hau",
+            "create_at": "12:00",
+            "content": "abcd",
+            "other": "other",
+            "title": "abcd",
+            "start_time": "12:00",
+            "end_time": "14:30",
+            "appointments_name": "櫻田",
+            "type": "社内",
+            "date": "2024-06-18"
+          },
+          {
+            "title": "abcd",
+            "start_time": "15:00",
+            "end_time": "16:30",
+            "appointments_name": "櫻田",
+            "type": "社内",
+            "date": "2024-06-18"
+          }
+        ],
+        "record_id": "bf8a",
+        "id": "9e84"
+      }
+    ],
+    "history": [
+      {
+        "id": "312312",
+        "meeting_room_no": 1,
+        "content": "abcd",
+        "other": "other",
+        "title": "技術者面談",
+        "start_time": "12:00",
+        "end_time": "14:30",
+        "appointments_name": "櫻田",
+        "type": "社内",
+        "date": "2024-11-03"
+      },
+      {
+        "id": "31dasdas2312",
+        "meeting_room_no": 1,
+        "content": "abcd",
+        "other": "other",
+        "title": "技術者面談",
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "appointments_name": "櫻田",
+        "type": "社内",
+        "date": "2024-11-03"
+      },
+      {
+        "id": "31dasddasdasas2312",
+        "meeting_room_no": 1,
+        "content": "abcd",
+        "other": "other",
+        "title": "技術者面談",
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "appointments_name": "櫻田",
+        "type": "社内",
+        "date": "2024-11-04"
+      },
+      {
+        "id": "31dasddasdasddasdasas2312",
+        "meeting_room_no": 1,
+        "content": "abcd",
+        "other": "other",
+        "title": "技術者面談",
+        "start_time": "11:00",
+        "end_time": "11:15",
+        "appointments_name": "櫻田",
+        "type": "社内",
+        "date": "2024-11-03"
+      }
+    ]
+  },
+  "monthlyReport": [
+    {
+      "id": "1",
+      "category": "バックオフィス",
+      "technician_group": "SAP営業",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "2",
+      "category": "バックオフィス",
+      "technician_group": "OPEN営業",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "3",
+      "category": "バックオフィス",
+      "technician_group": "DX営業",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "4",
+      "category": "バックオフィス",
+      "technician_group": "新規事業部",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "5",
+      "category": "バックオフィス",
+      "technician_group": "BP推進部",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "6",
+      "category": "バックオフィス",
+      "technician_group": "総務",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "7",
+      "category": "バックオフィス",
+      "technician_group": "副社長",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "8",
+      "category": "バックオフィス",
+      "technician_group": "SAP営業含む産休",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "9",
+      "category": "技術者",
+      "technician_group": "SAP正社員",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "10",
+      "category": "技術者",
+      "technician_group": "SAP個人",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "11",
+      "category": "技術者",
+      "technician_group": "Open正社員",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "12",
+      "category": "技術者",
+      "technician_group": "Open個人",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "13",
+      "category": "技術者",
+      "technician_group": "BP_SAP",
+      "month_9": 1,
+      "month_10": 1,
+      "month_11": 1,
+      "month_12": 1,
+      "month_1": 1,
+      "month_2": 1,
+      "month_3": 1,
+      "month_4": 1,
+      "month_5": 1,
+      "month_6": 1,
+      "month_7": 1,
+      "month_8": 1
+    },
+    {
+      "id": "14",
+      "category": "技術者",
+      "technician_group": "BP_Open",
+      "month_9": 1,
+      "month_10": 1,
+      "month_11": 1,
+      "month_12": 1,
+      "month_1": 1,
+      "month_2": 1,
+      "month_3": 1,
+      "month_4": 1,
+      "month_5": 1,
+      "month_6": 1,
+      "month_7": 1,
+      "month_8": 1
+    },
+    {
+      "id": "15",
+      "category": "技術者",
+      "technician_group": "BP_SAP 1",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "16",
+      "category": "技術者",
+      "technician_group": "BP_Open 1",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "17",
+      "category": "技術者",
+      "technician_group": "産休",
+      "month_9": 0,
+      "month_10": 0,
+      "month_11": 0,
+      "month_12": 0,
+      "month_1": 0,
+      "month_2": 0,
+      "month_3": 0,
+      "month_4": 0,
+      "month_5": 0,
+      "month_6": 0,
+      "month_7": 0,
+      "month_8": 0
+    },
+    {
+      "id": "18",
+      "category": "集計",
+      "technician_group": "Open稼働合計",
+      "month_9": 10,
+      "month_10": 15,
+      "month_11": 20,
+      "month_12": 25,
+      "month_1": 18,
+      "month_2": 22,
+      "month_3": 30,
+      "month_4": 28,
+      "month_5": 35,
+      "month_6": 32,
+      "month_7": 27,
+      "month_8": 29
+    },
+    {
+      "id": "19",
+      "category": "集計",
+      "technician_group": "Open待機合計",
+      "month_9": 5,
+      "month_10": 8,
+      "month_11": 7,
+      "month_12": 10,
+      "month_1": 6,
+      "month_2": 9,
+      "month_3": 8,
+      "month_4": 11,
+      "month_5": 9,
+      "month_6": 10,
+      "month_7": 6,
+      "month_8": 7
+    },
+    {
+      "id": "20",
+      "category": "集計",
+      "technician_group": "SAP稼働合計",
+      "month_9": 12,
+      "month_10": 14,
+      "month_11": 16,
+      "month_12": 18,
+      "month_1": 13,
+      "month_2": 15,
+      "month_3": 20,
+      "month_4": 19,
+      "month_5": 21,
+      "month_6": 22,
+      "month_7": 18,
+      "month_8": 17
+    },
+    {
+      "id": "21",
+      "category": "集計",
+      "technician_group": "SAP待機合計",
+      "month_9": 6,
+      "month_10": 7,
+      "month_11": 5,
+      "month_12": 8,
+      "month_1": 4,
+      "month_2": 6,
+      "month_3": 5,
+      "month_4": 7,
+      "month_5": 5,
+      "month_6": 4,
+      "month_7": 3,
+      "month_8": 2
+    },
+    {
+      "id": "22",
+      "category": "集計",
+      "technician_group": "インフラ、クラウド系稼働合計",
+      "month_9": 15,
+      "month_10": 20,
+      "month_11": 22,
+      "month_12": 25,
+      "month_1": 18,
+      "month_2": 21,
+      "month_3": 24,
+      "month_4": 26,
+      "month_5": 28,
+      "month_6": 30,
+      "month_7": 27,
+      "month_8": 29
+    },
+    {
+      "id": "23",
+      "category": "集計",
+      "technician_group": "インフラ、クラウド系待機合計",
+      "month_9": 4,
+      "month_10": 5,
+      "month_11": 6,
+      "month_12": 7,
+      "month_1": 5,
+      "month_2": 6,
+      "month_3": 8,
+      "month_4": 9,
+      "month_5": 8,
+      "month_6": 7,
+      "month_7": 6,
+      "month_8": 5
+    }
+  ],
+  "withinCompany": {
+    "personnel_list": {
+      "fullTimeEmployee": [
+        {
+          "id": "1",
+          "name": "infra 三郎",
+          "hire_date": "2024-12-12",
+          "department": "IT部",
+          "managerial_position": "役職"
+        },
+        {
+          "id": "2",
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12",
+          "department": "IT部",
+          "managerial_position": "役職"
+        },
+        {
+          "id": "3",
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12",
+          "department": "IT部",
+          "managerial_position": "役職"
+        }
+      ]
+    },
+    "notHired": [
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "retirement_info": [
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "maternity_leave_list": [
+      {
+        "name": "sinh de",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "personnelSituationOverview": {
+      "sap_sales": "200",
+      "open_sales": "200",
+      "dx_sales": "10000",
+      "new_business_department": "200",
+      "bp_promotion_department": "200",
+      "general_affairs_department": "200",
+      "human_resources_department": "200",
+      "vice_president": "200",
+      "total": "20000"
+    }
+  },
+  "cloudInfraInformation": {
+    "personnel_list": {
+      "fullTimeEmployee": [
+        {
+          "name": "infra 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "individual": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "BP": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ]
+    },
+    "waiting_info": [
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      }
+    ],
+    "new_emp_lis": [
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      }
+    ],
+    "retirement_info": [
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "maternity_leave_list": [
+      {
+        "name": "sinh de",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "personnelSituationOverview": {
+      "on_site": "200",
+      "people_waiting": "200",
+      "total": "10000"
+    }
+  },
+  "openInformation": {
+    "personnel_list": {
+      "fullTimeEmployee": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "individual": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "BP": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ]
+    },
+    "waiting_info": [
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      }
+    ],
+    "new_emp_lis": [
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      }
+    ],
+    "retirement_info": [
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "maternity_leave_list": [
+      {
+        "name": "sinh de",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "personnelSituationOverview": {
+      "on_site": "200",
+      "people_waiting": "200",
+      "total": "10000"
+    }
+  },
+  "sapInformation": {
+    "personnel_list": {
+      "fullTimeEmployee": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "individual": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ],
+      "BP": [
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        },
+        {
+          "name": "高橋 三郎",
+          "hire_date": "2024-12-12"
+        }
+      ]
+    },
+    "waiting_info": [
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      },
+      {
+        "name": "高橋 三郎",
+        "exit_date": "2024-12-12"
+      }
+    ],
+    "new_emp_lis": [
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      },
+      {
+        "name": "高橋 三郎",
+        "program_language": "java"
+      }
+    ],
+    "retirement_info": [
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas"
+      }
+    ],
+    "maternity_leave_list": [
+      {
+        "name": "sinh de",
+        "emp_no": "0112312132312",
+        "unpaid_resident_tax_months": "5"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "0112312dasdadadasds132312",
+        "unpaid_resident_tax_months": "5"
+      },
+      {
+        "name": "高橋 三郎",
+        "emp_no": "dasdasas",
+        "unpaid_resident_tax_months": "5"
+      }
+    ],
+    "personnelSituationOverview": {
+      "on_site": "200",
+      "people_waiting": "200",
+      "GPCP": "200",
+      "OJT": "100",
+      "maternity_leave": "100",
+      "total": "10000"
+    }
+  },
+  "newEnemployedResignations": {
+    "newEmployees": {
+      "new_sap_total": 1,
+      "new_open_total": 1,
+      "new_management_total": 1,
+      "new_employee_total": 4,
+      "sap": [
+        {
+          "name": "鈴木 一郎",
+          "other": "sap"
+        },
+        {
+          "name": "鈴木 一郎",
+          "other": "sap"
+        }
+      ],
+      "open": [
+        {
+          "name": "鈴木 一郎 ",
+          "other": "open"
+        },
+        {
+          "name": "鈴木 一郎",
+          "other": "open"
+        }
+      ],
+      "management": [
+        {
+          "name": "鈴木 一郎",
+          "other": "newemp"
+        },
+        {
+          "name": "鈴木 一郎",
+          "other": "newempx"
+        }
+      ]
+    },
+    "notHired": {
+      "notHired_sap_total": 2,
+      "notHired_open_total": 2,
+      "notHired_management_total": 2,
+      "notHired_total": 6,
+      "sap": [
+        {
+          "name": "notHired",
+          "other": "note 2"
+        },
+        {
+          "name": "notHired",
+          "other": "note 2"
+        },
+        {
+          "name": "notHired",
+          "other": "note 2"
+        }
+      ],
+      "open": [
+        {
+          "name": "notHired",
+          "other": "note 2"
+        }
+      ],
+      "management": [
+        {
+          "name": "notHired",
+          "other": "note 2"
+        }
+      ]
+    },
+    "resignation": {
+      "resignation_sap_total": 4,
+      "resignation_open_total": 4,
+      "resignation_management_total": 4,
+      "resignation_total": 12,
+      "sap": [
+        {
+          "name": "鈴木 一郎",
+          "other": "note 2"
+        },
+        {
+          "name": "木村 佐藤",
+          "other": "note ３"
+        }
+      ],
+      "open": [
+        {
+          "name": "nghi viec",
+          "other": "note 2"
+        }
+      ],
+      "management": [
+        {
+          "name": "nghi viec",
+          "other": "note 2"
+        }
+      ]
+    }
+  },
+  "equipmentUsageHistory": [
+    {
+      "id": "8cbb",
+      "used_date": "2024-10-25",
+      "equipment_name": "Invalid Date",
+      "stock_quantity": 3123123,
+      "user_name": "asda",
+      "contant": "dsadasasđâsdasdasdasdasdasdasd"
+    },
+    {
+      "id": "4676",
+      "used_date": "2024-10-25",
+      "equipment_name": "プリンター",
+      "stock_quantity": 213213,
+      "user_name": "12312",
+      "contant": "dasdas"
+    },
+    {
+      "id": "aa4b",
+      "used_date": "2024-10-25",
+      "equipment_name": "プリンター",
+      "stock_quantity": 21312,
+      "user_name": "dsada",
+      "contant": "asds"
+    }
+  ],
+  "equipmentManagement": [
+    {
+      "record_id": "1",
+      "equipment_name": "プリンター",
+      "img_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5J5QCPD05WmpnvFGmkgeXIz4eABsFUecOQ&s",
+      "stock_quantity": 100,
+      "unit": "台",
+      "amount": "15000",
+      "management_location": "オフィス倉庫A",
+      "purchase_date": "2023-01-15",
+      "purchase_url": "https://www.youtube.com/",
+      "usefulness": "オフィスでの印刷",
+      "contant": "消耗品は別途購入",
+      "id": "9b2a"
+    },
+    {
+      "record_id": "2",
+      "equipment_name": "プリンター",
+      "img_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5J5QCPD05WmpnvFGmkgeXIz4eABsFUecOQ&s",
+      "stock_quantity": 10,
+      "unit": "台",
+      "amount": "15000",
+      "management_location": "オフィス倉庫A",
+      "purchase_date": "2023-01-15",
+      "purchase_url": "https://www.youtube.com/",
+      "usefulness": "オフィスでの印刷",
+      "contant": "消耗品は別途購入",
+      "id": "9c0b"
+    },
+    {
+      "record_id": "3",
+      "equipment_name": "プリンター",
+      "img_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5J5QCPD05WmpnvFGmkgeXIz4eABsFUecOQ&s",
+      "stock_quantity": 10,
+      "unit": "台",
+      "amount": "15000",
+      "management_location": "オフィス倉庫A",
+      "purchase_date": "2023-01-15",
+      "purchase_url": "https://www.youtube.com/",
+      "usefulness": "オフィスでの印刷",
+      "contant": "消耗品は別途購入",
+      "id": "ccce"
+    }
+  ],
+  "progressManagement": [
+    {
+      "register_date": "2024-10-08",
+      "importance": "中",
+      "negotiation_name": "ウェブ開発プロジェクト",
+      "probability": "75%",
+      "project_name": "システム保守",
+      "source": "WEB",
+      "company_name": "株式会社テック",
+      "proposed_engineer": "山田太郎",
+      "client_department": "IT部",
+      "negotiation_amount": 15000000,
+      "client_sales_person": "佐藤花子",
+      "scope_of_work": "保守運用",
+      "project_category": "OPEN系",
+      "contract_period_other": "1年間",
+      "sales_person": "高橋一郎",
+      "expected_order_period": "2024-10-08",
+      "negotiation_status": "電話提案",
+      "lost_reason": "予算不足",
+      "budget": "把握済み",
+      "order_time": "2024-10-14",
+      "budget_detail": 120000,
+      "selection_start_time": "2024-10-07",
+      "position": "その他",
+      "competitors": "株式会社コンペ",
+      "issues": "残業時間",
+      "other_issues": "人材不足",
+      "others": "セキュリティリスク",
+      "referrer": "田中次郎",
+      "order_date": "2024-10-15",
+      "site_name": "東京オフィス",
+      "quote_request_date": "2024-10-16",
+      "entry_date": "2024-10-14",
+      "contract_date": "2024-10-23",
+      "entry_id_card": "無",
+      "contract_period": "2024-10-23 〜 2025-10-23",
+      "entry_security_training": "無",
+      "technician_id": 456789,
+      "onsite_email": "tech@example.com",
+      "contract_type": "請負契約",
+      "onsite_phone_number": 123132312,
+      "overtime_hours": 40,
+      "exit_scheduled_date": "2024-10-28",
+      "id": "177ssssse"
+    },
+    {
+      "register_date": "2024-09-10",
+      "importance": "高",
+      "negotiation_name": "クラウド移行プロジェクト",
+      "probability": "50%",
+      "project_name": "クラウドインフラ導入",
+      "source": "紹介",
+      "company_name": "株式会社クラウド",
+      "proposed_engineer": "木村太郎",
+      "client_department": "クラウド部",
+      "negotiation_amount": 20000000,
+      "client_sales_person": "小林陽子",
+      "scope_of_work": "基本設計",
+      "project_category": "InfraCloud",
+      "contract_period_other": "2年間",
+      "sales_person": "山本次郎",
+      "expected_order_period": "2024-11-01",
+      "negotiation_status": "打ち合わせ",
+      "lost_reason": "納期調整失敗",
+      "budget": "把握済み",
+      "order_time": "2024-10-20",
+      "budget_detail": 300000,
+      "selection_start_time": "2024-10-18",
+      "position": "決裁者",
+      "competitors": "株式会社技術",
+      "issues": "スキル不足",
+      "other_issues": "リソース不足",
+      "others": "品質管理の問題",
+      "referrer": "斉藤健",
+      "order_date": "2024-10-25",
+      "site_name": "大阪オフィス",
+      "quote_request_date": "2024-10-20",
+      "entry_date": "2024-10-22",
+      "contract_date": "2024-10-28",
+      "entry_id_card": "有",
+      "contract_period": "2024-10-28 〜 2026-10-28",
+      "entry_security_training": "有",
+      "technician_id": 987654,
+      "onsite_email": "cloud@example.com",
+      "contract_type": "SES契約",
+      "onsite_phone_number": 3123123,
+      "overtime_hours": 60,
+      "exit_scheduled_date": "2024-11-15",
+      "id": "2abcde"
+    },
+    {
+      "register_date": "2024-10-09",
+      "importance": "高",
+      "negotiation_name": "dasdastest",
+      "probability": "50%",
+      "project_name": "dasdas",
+      "source": "紹介",
+      "company_name": "dasdas",
+      "proposed_engineer": "dasdas",
+      "client_department": "dasdas",
+      "negotiation_amount": 123123,
+      "client_sales_person": "asdas",
+      "scope_of_work": "開発",
+      "project_category": "OPEN系",
+      "contract_period_other": "daasds",
+      "sales_person": "dasdas",
+      "expected_order_period": "2024-10-21",
+      "negotiation_status": "発掘案件",
+      "lost_reason": "dasdasasd",
+      "budget": "把握済み",
+      "order_time": "2024-10-15",
+      "budget_detail": 123123,
+      "selection_start_time": "2024-10-07",
+      "position": "その他",
+      "competitors": "dasdasd",
+      "issues": "残業時間",
+      "other_issues": "dadas",
+      "others": "dasdasdas",
+      "referrer": "dasdas",
+      "order_date": "2024-10-30",
+      "site_name": "dasdas",
+      "quote_request_date": "2024-10-07",
+      "entry_date": "2024-09-30",
+      "contract_date": "2024-10-08",
+      "entry_id_card": "無",
+      "contract_period": "dasdasđâsdsdas",
+      "entry_security_training": "無",
+      "technician_id": 123123,
+      "onsite_email": "duyhaule2001@gmail.com",
+      "contract_type": "請負契約",
+      "onsite_phone_number": 12312312312,
+      "overtime_hours": 1.231231231231231,
+      "exit_scheduled_date": "2024-10-29",
+      "id": "4edf"
+    }
+  ],
+  "participation": [
+    {
+      "name": "田中角栄",
+      "salesNumber": "ABC",
+      "affiliationType": 2,
+      "affiliation": "正社員",
+      "participationPeriod": "2024-10-01",
+      "exitSchedule": "2025-10-01",
+      "projectDetails": "案件名",
+      "proposedUnitPrice": 220000,
+      "businessFlow": "商流: SMBC銀行←山田株式会社←IOT会社←株式会社スカイテック←会社設立",
+      "customerEvaluation": "すごいです",
+      "attendant": 7,
+      "attendant_comment": "特にないです",
+      "work_attitude": 8,
+      "work_attitude_comment": "特にないです",
+      "performance": 8,
+      "performance_comment": "特にないです",
+      "leadership": 9,
+      "leadership_comment": "特にないです",
+      "other": 8,
+      "other_comment": "特にないです",
+      "entryDate": "2024/09/12\n2025/10/10",
+      "remarks": "スキルアップできました。",
+      "createdName": "tanaka",
+      "createdEmpNo": "O001",
+      "id": "fa72"
+    },
+    {
+      "name": "山田",
+      "salesNumber": "BCA",
+      "affiliationType": 1,
+      "affiliation": "正社員",
+      "participationPeriod": "2024-10-10",
+      "exitSchedule": "2025-10-01",
+      "projectDetails": "案件名：\nプロジェクト詳細内容：\n担当内容：業務部分\n担当工程：\n言語ツールなど：特には新しい言語使っているかどうか\n今後傾向（増員・現状維持・縮小）：",
+      "proposedUnitPrice": 40000,
+      "businessFlow": "商流: google会社←SO会社←富士会社←KOL会社←株式会社スカイテック←流通会社",
+      "customerEvaluation": "トラブルもしくは褒められた事",
+      "attendant": 8,
+      "attendant_comment": "良いと思います",
+      "work_attitude": 8,
+      "work_attitude_comment": "良いと思います",
+      "performance": 9,
+      "performance_comment": "良いと思います",
+      "leadership": 9,
+      "leadership_comment": "良いと思います",
+      "other": 4,
+      "other_comment": "良いと思います",
+      "entryDate": "2024/10/10",
+      "remarks": "増員できました。よくできる。",
+      "createdName": "tanaka",
+      "createdEmpNo": "O001",
+      "id": "433c"
+    }
+  ],
+  "customerInformation": [
+    {
+      "companyName": "株式会社スカイテック",
+      "name": "山田　太郎",
+      "position": "部長",
+      "department": "営業部",
+      "subDepartment": "マーケティングチーム",
+      "contact": "03-1234-5678",
+      "email": "taro.yamada@newday.co.jp",
+      "capital": "1000万円",
+      "revenue": "5000万円 (3年分)",
+      "capitalPartnership": "有a",
+      "homepage": "https://newday.co.jp",
+      "latest": false,
+      "organizationChart": "https://cdn2.fptshop.com.vn/unsafe/hinh_nen_songoku_2_2c6f6ff10e.jpg",
+      "id": "1"
+    },
+    {
+      "companyName": "株式会社ソフトウェアソリューション",
+      "name": "佐藤花子",
+      "position": "主任",
+      "department": "開発部",
+      "subDepartment": "AIチーム",
+      "contact": "03-9876-5432",
+      "email": "hanako.sato@softwaresolutions.jp",
+      "capital": "500万円",
+      "revenue": "3000万円 (2年分)",
+      "capitalPartnership": "無",
+      "homepage": "https://softwaresolutions.jp",
+      "latest": true,
+      "organizationChart": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_zMv_SOVrDE2oAikEKOYo0XoeZI3E7AUzQ&s",
+      "id": "2"
+    },
+    {
+      "companyName": "株式会社グローバルリンクaaa",
+      "name": "田中一郎",
+      "position": "マ",
+      "department": "人事部",
+      "subDepartment": "採用チーム",
+      "contact": "03-6543-2109",
+      "email": "ichiro.tanaka@globallink.co.jp",
+      "capital": "2000万円",
+      "revenue": "1億円 (5年分)",
+      "capitalPartnership": "有",
+      "homepage": "https://globallink.co.jp",
+      "latest": true,
+      "organizationChart": "",
+      "id": "3"
+    }
+  ],
+  "saleReportRegister": [
+    {
+      "date": "2023-10-01",
+      "time": "AM",
+      "jobDescription": "9：30～朝会（30分以内完成）",
+      "requiredTime": 2,
+      "managerApproval": false,
+      "ceoApproval": false,
+      "handledCompany": "スカイテック株式会社",
+      "handledDepartment": "マーケティング部",
+      "meetingPerson": "鈴木　千尋",
+      "details": "キャンペーン戦略の議論",
+      "futureActions": "プレゼンテーションの準備",
+      "notes": "デザインチームとの調整",
+      "id": "1",
+      "emailCount": "2",
+      "callsToCustomers": "3",
+      "proposalCount": "4",
+      "meetingCount": "5",
+      "troubleResponseCount": "6",
+      "closedDealsCount": "7"
+    },
+    {
+      "date": "2023-10-02",
+      "time": "PM",
+      "jobDescription": "クライアント向けの製品デモdaaaaaa",
+      "quantity": "",
+      "requiredTime": 3,
+      "handledCompany": "XYZ株式会社",
+      "handledDepartment": "営業部",
+      "meetingPerson": "ジェーン・スミス",
+      "details": "Java、11月から、体制、5名",
+      "futureActions": "2日、19時要員確定（番号）",
+      "notes": "プレミアムパッケージに興味",
+      "id": "3",
+      "managerApproval": false,
+      "ceoApproval": false,
+      "emailCount": "2",
+      "callsToCustomers": "3",
+      "proposalCount": "4",
+      "meetingCount": "5",
+      "troubleResponseCount": "6",
+      "closedDealsCount": "7"
+    }
+  ],
+  "teacherAccount": [
+    {
+      "name": "LE DUY HAU",
+      "emp_no": "123456",
+      "id": "5c67"
+    },
+    {
+      "name": "Le Thi B",
+      "emp_no": "1234567",
+      "id": "5f81"
+    },
+    {
+      "name": "Emily Johnson",
+      "emp_no": "12345678",
+      "id": "54a8"
+    }
+  ],
+  "managerAccount": [
+    {
+      "name": "千尋 鈴木",
+      "emp_no": "012345",
+      "id": "6d95"
+    },
+    {
+      "name": "箕輪 木村",
+      "emp_no": "0123",
+      "id": "bf41"
+    },
+    {
+      "name": "森田 来夢",
+      "emp_no": "01234",
+      "id": "a6f3"
+    }
+  ],
+  "courseSetting": [
+    {
+      "id": "ce3d",
+      "courseItem": "ビジネスマナー教育",
+      "teacherAccount": [
+        "123456"
+      ],
+      "employeeNumbers": [
+        "0112311231232312",
+        "0112312312"
+      ]
+    },
+    {
+      "id": "5229",
+      "courseItem": "ビジネスマナー教育",
+      "teacherAccount": [
+        "123456"
+      ],
+      "employeeNumbers": [
+        "0112311231232312",
+        "0112312312"
+      ]
+    },
+    {
+      "id": "abfe",
+      "courseItem": "ビジネスマナー教育",
+      "teacherAccount": [
+        "123456"
+      ],
+      "employeeNumbers": [
+        "0112311231232312",
+        "0112312312"
+      ]
+    },
+    {
+      "id": "0a00",
+      "courseItem": "ビジネスマナー教育",
+      "teacherAccount": [
+        "1234567"
+      ],
+      "managementAccount": [
+        "01234"
+      ],
+      "employeeNumbers": [
+        "0112311231232312",
+        "0112312312"
+      ]
+    }
+  ],
+  "usersMails": [
+    {
+      "id": "0023",
+      "employee_number": "0112311231232312",
+      "mail": "duyhauddle2001@gmail.com",
+      "name": "ccccTran Van C",
+      "sex": "Male"
+    },
+    {
+      "id": "0023",
+      "employee_number": "0112312312",
+      "mail": "duyhauddle2001@gmail.com",
+      "name": "ccccTran Van C",
+      "sex": "Male"
+    }
+  ],
+  "courseProduction": [
+    {
+      "id": "cbb7",
+      "date": "2024-11-15",
+      "courseName": "aaaab",
+      "requiredTime": 2,
+      "url": "https://www.youtube.com/",
+      "teacherAccount": [
+        "123456"
+      ],
+      "managementAccount": [
+        "012345"
+      ],
+      "courseItem": 0
+    }
+  ],
+  "leaderReport": [
+    {
+      "leaderContent": "リーダーの進捗管理とレポート",
+      "member": [
+        {
+          "id": "1213123",
+          "name": "鈴木千尋",
+          "content": "タスクAを完了しました。問題なし。"
+        },
+        {
+          "id": "312311",
+          "name": "hau",
+          "content": "タスクBを進行中。明日終了予定。"
+        },
+        {
+          "id": "2231",
+          "name": "hao",
+          "content": "タスクCを完了しましたが、追加のフィードバックが必要です。"
+        }
+      ],
+      "id": "1e82"
+    },
+    {
+      "leaderContent": "チーム全体の報告",
+      "member": [
+        {
+          "id": "1",
+          "name": "鈴木千尋",
+          "content": "新しいタスクの確認待ち。"
+        },
+        {
+          "id": "2",
+          "name": "hau",
+          "content": "現在のタスクはほぼ終了。テスト中。"
+        },
+        {
+          "id": "3",
+          "name": "hao",
+          "content": "タスクDに遅れが出ていますが、調整中です。"
+        }
+      ],
+      "id": "a397"
+    }
+  ],
+  "contactTheLeader": [
+    {
+      "id": "4d41",
+      "date": "2024-10-23"
+    },
+    {
+      "id": "cfba",
+      "date": "2024-10-23",
+      "content": "dasdasdasddsadasdasdasd"
+    }
+  ],
+  "listLeaderNameMeetingRecord": [],
+  "leaderMeetingRecord": [
+    {
+      "attendees": [
+        "千尋",
+        "木村"
+      ],
+      "absentees": [
+        "木村"
+      ],
+      "chairmanship": "đâsdas",
+      "date": "2024-10-09",
+      "leaderReports": [
+        {
+          "leaderName": "千尋",
+          "content": "đâsdđâsdasdasdaadsasđâsdasdasdasd"
+        }
+      ],
+      "id": "f45e"
+    },
+    {
+      "id": "b3f6",
+      "attendees": [
+        "木村",
+        "千尋"
+      ],
+      "absentees": [
+        "千尋"
+      ],
+      "chairmanship": "đâsd",
+      "date": "2024-09-30",
+      "leaderReports": [
+        {
+          "leaderName": "木村",
+          "content": "đâsd"
+        },
+        {
+          "leaderName": "千尋",
+          "content": "đâsd"
+        }
+      ]
+    },
+    {
+      "id": "b428",
+      "attendees": [
+        "千尋",
+        "鈴木"
+      ],
+      "absentees": [
+        "千尋"
+      ],
+      "chairmanship": "dasdas",
+      "date": "2024-10-15",
+      "leaderReports": [
+        {
+          "leaderName": "千尋",
+          "content": "dasdasd"
+        },
+        {
+          "leaderName": "鈴木",
+          "content": "dasdasd"
+        }
+      ]
+    }
+  ],
+  "meetingRecord": [
+    {
+      "id": "1",
+      "date": "2024-10-31",
+      "topic": "Monthly Business Reviewdasdasd",
+      "location": "Hangzhou, Zhejiang",
+      "subject": "Annual Planning",
+      "reason": "Discuss yearly targets and KPIs",
+      "attendees": [
+        "高",
+        "小林美咲",
+        "木村"
+      ],
+      "absentees": [
+        "鈴木"
+      ],
+      "content": "Discussed financial forecasts, marketing strategies, and HR plans",
+      "departmentNotes": "No updates from the HR department",
+      "companyNotes": "Q3 financial reports reviewed",
+      "managerApproval": true,
+      "vicePresidentApproval": false,
+      "presidentApproval": false
+    },
+    {
+      "id": "2",
+      "date": "2024-09-30",
+      "topic": "Product Launch Planning",
+      "location": "New York, USA",
+      "subject": "New Software Launch",
+      "reason": "Finalize product launch details",
+      "attendees": [
+        "高",
+        "小林美咲",
+        "木村"
+      ],
+      "absentees": [
+        "鈴木"
+      ],
+      "content": "Finalized marketing plans, launch schedules, and product demos",
+      "departmentNotes": "Marketing department presented campaign ideas",
+      "companyNotes": "New software ready for launch on 2024-11-01",
+      "managerApproval": true,
+      "vicePresidentApproval": false,
+      "presidentApproval": false
+    },
+    {
+      "id": "3",
+      "date": "2024-08-15",
+      "topic": "Quarterly Financial Review",
+      "location": "London, UK",
+      "subject": "Financial Analysis",
+      "reason": "Review company’s financial performance in Q2",
+      "attendees": [
+        "高",
+        "小林美咲",
+        "木村"
+      ],
+      "absentees": [
+        "鈴木"
+      ],
+      "content": "Reviewed revenue, expenses, and profit margins for Q2",
+      "departmentNotes": "Finance department shared recommendations for cost reduction",
+      "companyNotes": "Overall company growth noted in Q2",
+      "managerApproval": false,
+      "vicePresidentApproval": false,
+      "presidentApproval": false
+    }
+  ],
+  "dailyReportRegis": [
+    {
+      "id": "3",
+      "date": "2024-10-05",
+      "time": "PM",
+      "jobDescription": "Task 3",
+      "quantity": "1",
+      "timeSchedule": "1",
+      "actualCompletionTime": "1",
+      "reason": "Reason 3",
+      "informationSharing": "Info 3",
+      "other": "Note 3",
+      "ceoApproval": false,
+      "leaderApproval": false
+    },
+    {
+      "date": "2024-10-05",
+      "time": "AM",
+      "jobDescription": "Task 2",
+      "quantity": "3",
+      "timeSchedule": "1",
+      "actualCompletionTime": "1",
+      "reason": "Reason 2",
+      "informationSharing": "Info 2",
+      "other": "Note 2",
+      "id": "3123122"
+    },
+    {
+      "id": "3123123",
+      "date": "2024-10-05",
+      "time": "PM",
+      "jobDescription": "Task 3",
+      "quantity": "1",
+      "timeSchedule": "1",
+      "actualCompletionTime": "1",
+      "reason": "Reason 3",
+      "informationSharing": "Info 3",
+      "other": "Note 3",
+      "ceoApproval": false,
+      "leaderApproval": false
+    },
+    {
+      "id": "3123124",
+      "date": "2024-10-05",
+      "time": "AM",
+      "jobDescription": "Task 4",
+      "quantity": "4",
+      "timeSchedule": "1",
+      "actualCompletionTime": "1",
+      "reason": "Reason 4",
+      "informationSharing": "Info 4",
+      "other": "Note 4",
+      "ceoApproval": true,
+      "leaderApproval": false
+    },
+    {
+      "id": "312312312124",
+      "date": "2024-10-06",
+      "time": "AM",
+      "jobDescription": "Task 4",
+      "quantity": "4",
+      "timeSchedule": "2",
+      "actualCompletionTime": "1",
+      "reason": "Reason 4",
+      "informationSharing": "Info 4",
+      "other": "Note 4",
+      "ceoApproval": true,
+      "leaderApproval": false
+    },
+    {
+      "id": "312312312124",
+      "date": "2024-10-07",
+      "time": "AM",
+      "jobDescription": "Task 4",
+      "quantity": "4",
+      "timeSchedule": "8",
+      "actualCompletionTime": "1",
+      "reason": "Reason 4",
+      "informationSharing": "Info 4",
+      "other": "Note 4",
+      "ceoApproval": true,
+      "leaderApproval": false
+    }
+  ],
+  "reportApproval": [
+    {
+      "id": "1",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "AM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "1đâsdasdsa",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "AM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "3333",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "PM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "3344433",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "PM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "334dasdasdasdasd4433",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "PM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "2",
+      "name": "鈴木花子",
+      "date": "2024-10-02",
+      "time": "PM",
+      "jobDescription": "メール対応",
+      "quantity": "12人",
+      "timeSchedule": "2時間",
+      "reason": "担当者の確認待ち",
+      "informationSharing": "来週の予定について確認要",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "3",
+      "name": "佐藤一郎",
+      "date": "2024-10-03",
+      "time": "AM",
+      "jobDescription": "データ分析",
+      "quantity": "3件",
+      "timeSchedule": "4時間",
+      "reason": "システム不具合",
+      "informationSharing": "データ修正についてチーム全体に周知",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "5",
+      "name": "鈴木花子",
+      "date": "2024-10-05",
+      "time": "AM",
+      "jobDescription": "レポート作成",
+      "quantity": "8件",
+      "timeSchedule": "3時間",
+      "reason": "データ不完全",
+      "informationSharing": "修正後再提出要",
+      "other": "特に無し",
+      "leaderApproval": false
+    },
+    {
+      "id": "7",
+      "name": "山田太郎",
+      "date": "2024-10-01",
+      "time": "PM",
+      "jobDescription": "資料作成",
+      "quantity": "5件",
+      "timeSchedule": "3時間",
+      "reason": "依頼資料不足",
+      "informationSharing": "新しいプロジェクトについて共有済み",
+      "other": "特に無し",
+      "leaderApproval": false
+    }
+  ],
+  "retirementList": [
+    {
+      "emp_no": "87654321",
+      "username": "Le Duy",
+      "mail": "nguyenvana@example.com",
+      "contract_related": "内勤",
+      "retirement_date": "2024-10-15",
+      "reason": "転職",
+      "retirement_procedure": "未",
+      "other": "Note for employee A",
+      "president_approval": "未",
+      "manager_approval": "済み",
+      "id": "123456"
+    },
+    {
+      "emp_no": "87654321dasdasdsa",
+      "username": "Le Duy Hau",
+      "mail": "nguyenvana@example.com",
+      "contract_related": "内勤",
+      "retirement_date": "2024-10-15",
+      "reason": "転職",
+      "retirement_procedure": "未",
+      "other": "Note for employee A",
+      "president_approval": "未",
+      "manager_approval": "済み",
+      "id": "123421356"
+    },
+    {
+      "id": "1234567",
+      "emp_no": "13579246",
+      "username": "Tran Thi B",
+      "mail": "tranthib@example.com",
+      "contract_related": "技術者OPEN系",
+      "retirement_date": "2024-11-30",
+      "reason": "家庭の事情",
+      "retirement_procedure": "済み",
+      "other": "Note for employee B",
+      "president_approval": "済み",
+      "manager_approval": "未",
+      "department": "officeWork"
+    },
+    {
+      "id": "ff9c",
+      "emp_no": "asdasdasd",
+      "username": "asdasdasd",
+      "mail": "duyhaule2001@gmail.com",
+      "contract_related": "契約",
+      "retirement_date": "2024-10-10",
+      "reason": "asdasdasd",
+      "retirement_procedure": "未",
+      "other": "dasdasdasd",
+      "president_approval": "未",
+      "manager_approval": "未"
+    },
+    {
+      "emp_no": "asdasdasd",
+      "username": "asdasdas",
+      "mail": "duyhauddle2001@gmail.com",
+      "contract_related": "契約",
+      "retirement_date": "2024-10-14",
+      "reason": "dasdasdas",
+      "retirement_procedure": "未",
+      "other": "dasdasdasd",
+      "president_approval": "未",
+      "manager_approval": "済み",
+      "id": "facb"
+    },
+    {
+      "id": "a137",
+      "emp_no": "dasdasdasdas",
+      "username": "dasdasd",
+      "mail": "duyhaule2001@gmail.com",
+      "contract_related": "契約",
+      "retirement_date": "2024-10-21",
+      "reason": "dasdasdas",
+      "retirement_procedure": "未",
+      "other": "dasdas",
+      "president_approval": "未",
+      "manager_approval": "未"
+    },
+    {
+      "id": "26ad",
+      "emp_no": "21e21321",
+      "username": "asdasdsada",
+      "mail": "duyhaule2001@gmail.com",
+      "contract_related": "正",
+      "retirement_date": "2024-10-14",
+      "reason": "dasdasd",
+      "retirement_procedure": "未",
+      "other": "dasdasd",
+      "president_approval": "未",
+      "manager_approval": "未"
+    },
+    {
+      "id": "3d12",
+      "emp_no": "dasdasd",
+      "username": "dasdas1606",
+      "mail": "sadasd@gmail.com",
+      "contract_related": "技術者SAP",
+      "retirement_date": "2024-10-07",
+      "reason": "dasdas",
+      "retirement_procedure": "未",
+      "other": "dasdas",
+      "president_approval": "未",
+      "manager_approval": "未"
+    }
+  ],
+  "standbyState": {
+    "total_sap": 2,
+    "sap_scheduledAdmission_total": 5,
+    "total_open": 3,
+    "open_scheduledAdmission_total": 6,
+    "sap": [
+      {
+        "year": 2024,
+        "month": 9,
+        "emp_name": "鈴木 千尋",
+        "exit_date": "2024-09-15",
+        "midway_date": "2024-09-10",
+        "midway_per": "50%",
+        "other": "Note for SAP employee"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "emp_name": "Jane Doe",
+        "exit_date": "2024-10-20",
+        "midway_date": "2024-10-12",
+        "midway_per": "75%",
+        "other": "Another note for SAP employee"
+      }
+    ],
+    "open": [
+      {
+        "year": 2024,
+        "month": 9,
+        "emp_name": "Alice Smith",
+        "exit_date": "2024-09-22",
+        "midway_date": "2024-09-14",
+        "midway_per": "60%",
+        "other": "Note for Open employee"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "emp_name": "Bob Johnson",
+        "exit_date": "2024-10-18",
+        "midway_date": "2024-10-10",
+        "midway_per": "80%",
+        "other": "Another note for Open employee"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "emp_name": "Bob Johnson",
+        "exit_date": "2024-10-18",
+        "midway_date": "2024-10-10",
+        "midway_per": "80%",
+        "other": "Another note for Open employee"
+      }
+    ]
+  },
+  "groupManagement": [
+    {
+      "group_id": "12345",
+      "leader": {
+        "emp_no": "89",
+        "username": "LE DUY HAU",
+        "img_path": "https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-1/346073356_3486138974957993_6419122623242083927_n.jpg?stp=dst-jpg_s480x480&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=6hwyQgiQwOYQ7kNvgGgnXx3&_nc_ht=scontent-nrt1-2.xx&oh=00_AYCmJjrHx-B-IGm4TmsKqMzmSKPfP2CsFBa8H_JKS7VusA&oe=66FC3501",
+        "personalReports": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "leduy hau"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ],
+        "onsiteEvaluation": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "le van b"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ],
+        "contributionEvaluation": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "le van c"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ]
+      },
+      "members": [
+        {
+          "emp_no": "12345678",
+          "username": "グエン クアン ハオ",
+          "img_path": "",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月のpersonalReports個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月のonsiteEvaluation個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月のcontributionEvaluation個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        },
+        {
+          "emp_no": "12ss1231s345",
+          "username": "グエン ヴァン c",
+          "img_path": "",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "nguyen van c"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "nguyen van c onsite"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "nguyen van c contribut"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        },
+        {
+          "emp_no": "12ss12323132s345",
+          "username": "グエン ヴァン A",
+          "img_path": "",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        }
+      ],
+      "id": "7881"
+    },
+    {
+      "group_id": "idGroup",
+      "leader": {
+        "emp_no": "leaderNumber",
+        "username": "田中 うちは",
+        "img_path": "",
+        "personalReports": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "2023年1月の個人レポート"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ],
+        "onsiteEvaluation": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "2023年1月の個人レポート"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ],
+        "contributionEvaluation": [
+          {
+            "yearMonth": "2024-09",
+            "reportContent": "2023年1月の個人レポート"
+          },
+          {
+            "yearMonth": "2024-10",
+            "reportContent": "2023年1月の個人レポート"
+          }
+        ]
+      },
+      "members": [
+        {
+          "emp_no": "memberNumber",
+          "username": "グエン クアン ハオ",
+          "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        },
+        {
+          "emp_no": "12ss1231s345",
+          "username": "グエン ヴァン A",
+          "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        },
+        {
+          "emp_no": "12ss1231s345",
+          "username": "グエン ヴァン A",
+          "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+          "personalReports": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "onsiteEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ],
+          "contributionEvaluation": [
+            {
+              "yearMonth": "2024-09",
+              "reportContent": "2023年1月の個人レポート"
+            },
+            {
+              "yearMonth": "2024-10",
+              "reportContent": "2023年1月の個人レポート"
+            }
+          ]
+        }
+      ],
+      "id": "ad72"
+    }
+  ],
+  "users": [
+    {
+      "username": "LE DUY HAU",
+      "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+      "emp_no": "89",
+      "group_id": "12345",
+      "is_leader": true,
+      "id": "1fde"
+    },
+    {
+      "username": "Hoang Van E",
+      "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+      "emp_no": "0112312132312",
+      "group_id": "1abcs",
+      "is_leader": true,
+      "id": "1472"
+    },
+    {
+      "username": "Michael Brown",
+      "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+      "emp_no": "01123312312312",
+      "group_id": "1abcs",
+      "is_leader": true,
+      "id": "78ff"
+    },
+    {
+      "username": "Le Duy Hau",
+      "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+      "emp_no": "01132312312312",
+      "group_id": "",
+      "is_leader": false,
+      "id": "caa8"
+    },
+    {
+      "username": "Nguyen Van A",
+      "img_path": "https://api.dicebear.com/7.x/miniavs/svg?seed=8",
+      "emp_no": "0112w123312312",
+      "group_id": "",
+      "is_leader": false,
+      "id": "6af3"
+    }
+  ],
+  "companyEquipmentApplication": [
+    {
+      "id": "1",
+      "date": "2024-06-18",
+      "title": "花",
+      "content": "花買う",
+      "status": true
+    },
+    {
+      "id": "2",
+      "date": "2024-06-21",
+      "title": "花",
+      "content": "花買う",
+      "status": false
+    },
+    {
+      "id": "3",
+      "date": "2024-06-19",
+      "title": "花",
+      "content": "花買う",
+      "status": true
+    },
+    {
+      "id": "4",
+      "date": "2024-06-19",
+      "title": "花",
+      "content": "花買う",
+      "status": true
+    }
+  ],
+  "employeeReport": [
+    {
+      "employee_number": "E001",
+      "name": "John Smith",
+      "department": "Engineering",
+      "gender": "Male",
+      "email": "john.smith@example.com",
+      "total_working_hours": 160,
+      "billing_amount": 5000,
+      "total_billing_amount": 15000,
+      "total_working_days": 20,
+      "total_transportation_expense": 200,
+      "total_salary": 8000,
+      "submit_date": "2024-09",
+      "id": "adfc"
+    },
+    {
+      "employee_number": "E002",
+      "name": "Emily Johnson",
+      "department": "Marketing",
+      "gender": "Female",
+      "email": "emily.johnson@example.com",
+      "total_working_hours": 170,
+      "billing_amount": 5500,
+      "total_billing_amount": 16500,
+      "total_working_days": 21,
+      "total_transportation_expense": 250,
+      "total_salary": 8500,
+      "submit_date": "2024-09",
+      "id": "6a31"
+    },
+    {
+      "employee_number": "E003",
+      "name": "Michael Brown",
+      "department": "Sales",
+      "gender": "Male",
+      "email": "michael.brown@example.com",
+      "total_working_hours": 150,
+      "billing_amount": 4800,
+      "total_billing_amount": 14400,
+      "total_working_days": 19,
+      "total_transportation_expense": 220,
+      "total_salary": 7800,
+      "submit_date": "2024-10",
+      "id": "3ea0"
+    }
+  ],
+  "purchaseOrderSubmit": {
+    "companyName": "Tech Solutions Inc.",
+    "totalAmount": 5000000,
+    "projectName": "AI Development Project",
+    "deliverables": "AI Model, Documentation, Support",
+    "paymentTerms": "50% upfront, 50% upon completion",
+    "referenceEstimate": "REF-2024-5678",
+    "contractPeriod": "2024-01-01 to 2024-12-31",
+    "contractType": "Fixed-term",
+    "number": "PO-2024-9876",
+    "personnel": "John Doe, Jane Smith",
+    "unitPrice": 200000,
+    "quantity": 25,
+    "unit": "hours",
+    "amount": 5000000,
+    "settlementRange": "200 - 250 hours",
+    "deductionSettlement": "No deductions",
+    "workLocation": "Tokyo Office",
+    "orderNumber": "ORD-2024-1234",
+    "orderDate": "2024-09-01",
+    "unitMinutes": "203"
+  },
+  "purchaseOrderSubmit1": [
+    {
+      "id": "17e7",
+      "companyName": "Tech Solutions Inc.",
+      "totalAmount": 5000000,
+      "projectName": "AI Development Project",
+      "deliverables": "AI Model, Documentation, Support",
+      "paymentTerms": "50% upfront, 50% upon completion",
+      "referenceEstimate": "REF-2024-5678",
+      "contractPeriod": "2024-01-01 to 2024-12-31",
+      "contractType": "Fixed-term",
+      "number": "PO-2024-9876",
+      "personnel": "John Doe, Jane Smith",
+      "unitPrice": 200000,
+      "quantity": 25,
+      "unit": "hours",
+      "amount": 5000000,
+      "settlementRange": "200 - 250 hours",
+      "deductionSettlement": "No deductions",
+      "workLocation": "Tokyo Office",
+      "orderNumber": "ORD-2024-1234",
+      "orderDate": "2024-09-01",
+      "unitMinutes": "203"
+    },
+    {
+      "id": "2a95",
+      "companyName": "Tech Solutions Inc.",
+      "totalAmount": 5000000,
+      "projectName": "AI Development Project",
+      "deliverables": "AI Model, Documentation, Support",
+      "paymentTerms": "50% upfront, 50% upon completion",
+      "referenceEstimate": "REF-2024-5678",
+      "contractPeriod": "2024-01-01 to 2024-12-31",
+      "contractType": "Fixed-term",
+      "number": "PO-2024-9876",
+      "personnel": "John Doe, Jane Smith",
+      "unitPrice": 200000,
+      "quantity": 25,
+      "unit": "hours",
+      "amount": 5000000,
+      "settlementRange": "200 - 250 hours",
+      "deductionSettlement": "No deductions",
+      "workLocation": "Tokyo Office",
+      "orderNumber": "ORD-2024-1234",
+      "orderDate": "2024-09-01",
+      "unitMinutes": "dddd203"
+    },
+    {
+      "id": "79af",
+      "companyName": "Tech Solutions Inc.",
+      "totalAmount": 5000000,
+      "projectName": "AI Development Project",
+      "deliverables": "AI Model, Documentation, Support",
+      "paymentTerms": "50% upfront, 50% upon completion",
+      "referenceEstimate": "REF-2024-5678",
+      "contractPeriod": "2024-01-01 to 2024-12-31",
+      "contractType": "Fixed-term",
+      "number": "PO-2024-9876",
+      "personnel": "John Doe, Jane Smith",
+      "unitPrice": 200000,
+      "quantity": 25,
+      "unit": "hours",
+      "amount": 5000000,
+      "settlementRange": "200 - 250 hours",
+      "deductionSettlement": "No deductions",
+      "workLocation": "Tokyo Office",
+      "orderNumber": "ORD-2024-1234",
+      "orderDate": "2024-09-01",
+      "unitMinutes": "dddd203"
+    },
+    {
+      "id": "2442",
+      "companyName": "Tech Solutions Inc.",
+      "totalAmount": 5000000,
+      "projectName": "AI Development Project",
+      "deliverables": "AI Model, Documentation, Support",
+      "paymentTerms": "50% upfront, 50% upon completion",
+      "referenceEstimate": "REF-2024-5678",
+      "contractPeriod": "2024-01-01 to 2024-12-31",
+      "contractType": "Fixed-term",
+      "number": "PO-2024-9876",
+      "personnel": "John Doe, Jane Smith",
+      "unitPrice": 200000,
+      "quantity": 25,
+      "unit": "hours",
+      "amount": 5000000,
+      "settlementRange": "200 - 250 hours",
+      "deductionSettlement": "No deductions",
+      "workLocation": "Tokyo Office",
+      "orderNumber": "ORD-2024-1234",
+      "orderDate": "2024-09-01",
+      "unitMinutes": "203ddd"
+    }
+  ],
+  "account": [
+    {
+      "id": "5",
+      "name": "test",
+      "mail": "misaki.kobayashi@example.com",
+      "permissions": 20,
+      "date": "2020-10-20",
+      "department": "Open系",
+      "role": "デザイナー",
+      "gender": "女性",
+      "img_path": "https://i.pinimg.com/564x/e1/01/81/e10181c9f1cb1980aa1e7fe1dc3bc2b4.jpg",
+      "enrollment_flg": true
+    },
+    {
+      "id": "4",
+      "name": "高",
+      "mail": "misaki.kobayashi@example.com",
+      "permissions": 6,
+      "date": "2020-10-20",
+      "department": "Open系",
+      "role": "デザイナー",
+      "gender": "女性",
+      "img_path": "https://i.pinimg.com/564x/e1/01/81/e10181c9f1cb1980aa1e7fe1dc3bc2b4.jpg",
+      "enrollment_flg": true
+    },
+    {
+      "id": "3",
+      "name": "小林美咲",
+      "mail": "misaki.kobayashi@example.com",
+      "permissions": 6,
+      "date": "2020-10-20",
+      "department": "Open系",
+      "role": "デザイナー",
+      "gender": "女性",
+      "img_path": "https://i.pinimg.com/564x/e1/01/81/e10181c9f1cb1980aa1e7fe1dc3bc2b4.jpg",
+      "enrollment_flg": true
+    },
+    {
+      "id": "2",
+      "name": "小林美咲",
+      "mail": "misaki.kobayashi@example.com",
+      "permissions": 6,
+      "date": "2020-10-20",
+      "department": "Open系",
+      "role": "デザイナー",
+      "gender": "女性",
+      "img_path": "https://i.pinimg.com/564x/e1/01/81/e10181c9f1cb1980aa1e7fe1dc3bc2b4.jpg",
+      "enrollment_flg": true
+    }
+  ],
+  "salesDailyReport": [
+    {
+      "id": "1",
+      "companyName": "株式会社スカイテック",
+      "department": "営業部",
+      "name": "山田太郎",
+      "conditionDetails": "迅速に対応すること。さらに、複数のチームメンバーと協力して、プロジェクトの各ステージにおける進捗状況をリアルタイムで追跡し、必要に応じて適切なリソースを割り当てる。",
+      "urgency": "高",
+      "telework": "有",
+      "interviewCount": 3,
+      "otherDetails": "特に無し",
+      "internalResponse": "有",
+      "notes": "迅速に対応すること。さらに、複数のチームメンバーと協力して、プロジェクトの各ステージにおける進捗状況をリアルタイムで追跡し、必要に応じて適切なリソースを割り当てる。",
+      "departmentKnowledge": [
+        "https://i.pinimg.com/564x/e1/01/81/e10181c9f1cb1980aa1e7fe1dc3bc2b4.jpg",
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg"
+      ],
+      "registrationDate": "2024-09-23",
+      "caseNumber": "312312312123",
+      "sales_or_proposal_department": "sale",
+      "isDisabled": true
+    },
+    {
+      "id": "2",
+      "companyName": "株式会社B",
+      "department": "開発部",
+      "name": "佐藤花子",
+      "conditionDetails": "システム開発の遅延",
+      "urgency": "中",
+      "telework": "無",
+      "interviewCount": 2,
+      "otherDetails": "調整中",
+      "internalResponse": "無",
+      "notes": "進捗の確認が必要。具体的には、毎週のステータスミーティングを実施し、開発チームとコミュニケーションを取りながら、スケジュール通りに進行するように調整する。",
+      "departmentKnowledge": [
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg",
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg"
+      ],
+      "registrationDate": "2024-09-23"
+    },
+    {
+      "id": "3",
+      "companyName": "株式会社C",
+      "department": "人事部",
+      "name": "鈴木一郎",
+      "conditionDetails": "人員不足",
+      "urgency": "高",
+      "telework": "無",
+      "interviewCount": 1,
+      "otherDetails": "追加人員募集中",
+      "internalResponse": "有",
+      "notes": "定期的に進捗確認。新規採用者のオンボーディングプロセスを最適化し、部門間の協力を促進するために、さらに詳細な手順を設定する必要がある。",
+      "departmentKnowledge": [
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg",
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg"
+      ],
+      "registrationDate": "2024-09-23"
+    },
+    {
+      "id": "4",
+      "companyName": "株式会社D",
+      "department": "マーケティング部",
+      "name": "高橋真美",
+      "conditionDetails": "新規プロジェクト",
+      "urgency": "低",
+      "telework": "有",
+      "interviewCount": 4,
+      "otherDetails": "順調",
+      "internalResponse": "無",
+      "notes": "次のステップに進む。マーケティングキャンペーンの改善点を洗い出し、特にソーシャルメディアでのエンゲージメントを高めるために、具体的なアクションを設定する必要がある。",
+      "departmentKnowledge": [
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg",
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg"
+      ],
+      "registrationDate": "2024-09-23"
+    },
+    {
+      "id": "5",
+      "companyName": "株式会社E",
+      "department": "IT部",
+      "name": "伊藤健",
+      "conditionDetails": "サーバーメンテナンス",
+      "urgency": "中",
+      "telework": "有",
+      "interviewCount": 3,
+      "otherDetails": "進捗良好",
+      "internalResponse": "有",
+      "notes": "作業完了後の確認が必要。サーバーのアップグレードとバックアップが確実に行われているか、詳細な報告書を作成し、チームと共有する。",
+      "departmentKnowledge": [
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg",
+        "https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hinh-nen-dien-thoai-19.jpg"
+      ],
+      "registrationDate": "2024-09-23"
+    }
+  ],
+  "companyList": [
+    {
+      "companyName": "FPT株式会社",
+      "id": "34a9"
+    },
+    {
+      "companyName": "ソニー株式会社",
+      "id": "d57b"
+    },
+    {
+      "companyName": "トヨタ自動車株式会社",
+      "id": "1c51"
+    },
+    {
+      "companyName": "日立製作所",
+      "id": "98f6"
+    },
+    {
+      "companyName": "三菱電機株式会社",
+      "id": "095f"
+    },
+    {
+      "companyName": "パナソニック株式会社",
+      "id": "d269"
+    },
+    {
+      "companyName": "ホンダ株式会社",
+      "id": "f1df"
+    },
+    {
+      "companyName": "株式会社リクルート",
+      "id": "674b"
+    },
+    {
+      "companyName": "楽天株式会社",
+      "id": "b457"
+    },
+    {
+      "companyName": "株式会社ディー・エヌ・エー",
+      "id": "def2"
+    },
+    {
+      "companyName": "日本電気株式会社",
+      "id": "d5ec"
+    },
+    {
+      "companyName": "キヤノン株式会社",
+      "id": "0acf"
+    },
+    {
+      "companyName": "株式会社資生堂",
+      "id": "a1c9"
+    },
+    {
+      "companyName": "任天堂株式会社",
+      "id": "af5f"
+    },
+    {
+      "companyName": "富士通株式会社",
+      "id": "c38d"
+    },
+    {
+      "companyName": "ヤフー株式会社",
+      "id": "cea4"
+    },
+    {
+      "companyName": "ソフトバンク株式会社",
+      "id": "985a"
+    },
+    {
+      "companyName": "株式会社電通",
+      "id": "301a"
+    },
+    {
+      "companyName": "東芝株式会社",
+      "id": "8f5a"
+    },
+    {
+      "companyName": "株式会社サイバーエージェント",
+      "id": "5d90"
+    },
+    {
+      "id": "1c43",
+      "company": "日立製作所",
+      "employees": [
+        {
+          "id": "1",
+          "employeeNumber": "12345",
+          "name": "山田 太郎",
+          "site_name": "東京オフィス",
+          "total_uptime": 160,
+          "rangeStart": "126",
+          "rangeEnd": "312",
+          "calculation_method": "中間精算",
+          "settlement_date": "2024-09-01",
+          "deduction_settlement": 5000,
+          "settlement_amount": 450000,
+          "calculation_range": "126-312"
+        },
+        {
+          "id": "2",
+          "employeeNumber": "67890",
+          "name": "佐藤 花子",
+          "site_name": "大阪オフィス",
+          "total_uptime": 140,
+          "calculation_range": "130-170",
+          "settlement_date": "2024-09-05",
+          "settlement_amount": 380000,
+          "deduction_settlement": 3000,
+          "date": "2024-09",
+          "rangeStart": "126",
+          "rangeEnd": 3123,
+          "calculation_method": "中間精算"
+        }
+      ]
+    },
+    {
+      "id": "6a2f",
+      "company": "トヨタ自動車株式会社",
+      "employees": [
+        {
+          "id": "1",
+          "employeeNumber": "12345",
+          "name": "山田 太郎",
+          "site_name": "東京オフィス",
+          "total_uptime": 160,
+          "rangeStart": "126",
+          "rangeEnd": "312",
+          "calculation_method": "中間精算",
+          "settlement_date": "2024-09-01",
+          "deduction_settlement": 5000,
+          "settlement_amount": 450000,
+          "calculation_range": "126-312"
+        },
+        {
+          "id": "4",
+          "employeeNumber": "98765",
+          "name": "田中 次郎",
+          "site_name": "福岡オフィス",
+          "total_uptime": 155,
+          "calculation_range": "140-180",
+          "settlement_date": "2024-09-19",
+          "settlement_amount": 410000,
+          "deduction_settlement": 6000,
+          "date": "2024-12",
+          "rangeStart": "126",
+          "rangeEnd": 3123,
+          "calculation_method": "中間精算"
+        }
+      ]
+    },
+    {
+      "id": "3d8f",
+      "company": "パナソニック株式会社",
+      "employees": [
+        {
+          "id": "1",
+          "employeeNumber": "12345",
+          "name": "山田 太郎",
+          "site_name": "東京オフィス",
+          "total_uptime": 160,
+          "rangeStart": "126",
+          "rangeEnd": "312",
+          "calculation_method": "中間精算",
+          "settlement_date": "2024-09-01",
+          "deduction_settlement": 5000,
+          "settlement_amount": 450000,
+          "calculation_range": "126-312"
+        }
+      ]
+    }
+  ],
+  "workingHoursManagement": [
+    {
+      "id": "1",
+      "employeeNumber": "12345",
+      "name": "山田 太郎",
+      "site_name": "東京オフィス",
+      "total_uptime": 160,
+      "rangeStart": "126",
+      "rangeEnd": "312",
+      "calculation_method": "中間精算",
+      "settlement_date": "2024-10",
+      "deduction_settlement": 5000,
+      "settlement_amount": 450000,
+      "calculation_range": "126-312",
+      "total_price": 231312,
+      "price_per_month": 123123,
+      "per_month": 12312
+    },
+    {
+      "id": "2",
+      "employeeNumber": "67890",
+      "name": "佐藤 花子",
+      "site_name": "大阪オフィス",
+      "total_uptime": 140,
+      "calculation_range": "130-170",
+      "settlement_date": "2024-10",
+      "settlement_amount": 380000,
+      "deduction_settlement": 3000,
+      "date": "2024-09",
+      "rangeStart": "126",
+      "rangeEnd": 3123,
+      "calculation_method": "中間精算"
+    },
+    {
+      "id": "3",
+      "employeeNumber": "54321",
+      "name": "鈴木 一郎",
+      "site_name": "名古屋オフィス",
+      "total_uptime": 175,
+      "calculation_range": "160-190",
+      "settlement_date": "2024-09",
+      "settlement_amount": 470000,
+      "deduction_settlement": 7000,
+      "date": "2024-11",
+      "rangeStart": "126",
+      "rangeEnd": 3123,
+      "calculation_method": "中間精算"
+    },
+    {
+      "id": "4",
+      "employeeNumber": "98765",
+      "name": "田中 次郎",
+      "site_name": "福岡オフィス",
+      "total_uptime": 155,
+      "calculation_range": "140-180",
+      "settlement_date": "2024-09",
+      "settlement_amount": 410000,
+      "deduction_settlement": 6000,
+      "date": "2024-12",
+      "rangeStart": "126",
+      "rangeEnd": 3123,
+      "calculation_method": "中間精算"
+    },
+    {
+      "id": "5",
+      "employeeNumber": "11223",
+      "name": "高橋 三郎",
+      "site_name": "札幌オフィス",
+      "total_uptime": 165,
+      "calculation_range": "150-190",
+      "settlement_date": "2024-09",
+      "settlement_amount": 430000,
+      "deduction_settlement": 4000,
+      "date": "2024-12",
+      "rangeStart": "126",
+      "rangeEnd": 3123,
+      "calculation_method": "中間精算"
+    }
+  ],
+  "technicianManagementSale": [
+    {
+      "technician_name": "鈴木　千尋",
+      "employee_number": "312sdasdasd",
+      "customer_company_name": "XYZ Ltd",
+      "name_of_person_in_charge": "鈴木　千尋",
+      "project_name": "Mobile App Development",
+      "contract_related": "派遣社員",
+      "admission_date": "2023-06-10",
+      "occupational_classification": "派",
+      "release_schedule": "2024-06-10",
+      "contract_renewal_date": "2024-05-30",
+      "personnel_confirm": "未",
+      "unit_price": "5000",
+      "person_month": "1.2",
+      "calculation_range": "150-170",
+      "settlement_date": "2024-07-05",
+      "admission_officer": "Kobayashi Kenta",
+      "remarks": "",
+      "id": "2"
+    }
+  ],
+  "NewEmployeeInformation": [
+    {
+      "id": "2",
+      "number": "324556",
+      "name": "Jane Smith",
+      "furigana": "ジェーン スミス",
+      "gender": "女",
+      "age": 221312,
+      "nationality": "British",
+      "skill_sheet": "JavaScript, PHP",
+      "years_of_experience": "4",
+      "start_date": "2024-11-01",
+      "preferred_language": "JavaScript",
+      "affiliation": "XYZ Corporation",
+      "employment_type": "Contract",
+      "procurement": "Outsource"
+    },
+    {
+      "id": "ea53",
+      "number": "dasdasddads",
+      "name": "dasd",
+      "furigana": "dasdas",
+      "gender": "女",
+      "age": 132,
+      "nationality": "132",
+      "skill_sheet": "なし",
+      "years_of_experience": "dasd",
+      "start_date": "2024-10-01",
+      "preferred_language": "123",
+      "affiliation": "OPEN系",
+      "employment_type": "中途",
+      "procurement": "123"
+    },
+    {
+      "id": "ee4b",
+      "number": "dasdasdd",
+      "name": "dasd",
+      "furigana": "dasdas",
+      "gender": "女",
+      "age": 132,
+      "nationality": "132",
+      "skill_sheet": "なし",
+      "years_of_experience": "dasd",
+      "start_date": "2024-10-01",
+      "preferred_language": "123",
+      "affiliation": "OPEN系",
+      "employment_type": "中途",
+      "procurement": "123"
+    },
+    {
+      "id": "6de0",
+      "number": "312312",
+      "name": "dasdas",
+      "furigana": "dasdasd",
+      "gender": "女",
+      "age": 2131,
+      "nationality": "123d",
+      "skill_sheet": "なし",
+      "years_of_experience": "3123",
+      "start_date": "2024-09-17",
+      "preferred_language": "dasd",
+      "affiliation": "OPEN系",
+      "employment_type": "中途",
+      "procurement": "123"
+    }
+  ],
+  "NewEmployeeInformation1": [
+    {
+      "id": "1",
+      "Name": "John Doe",
+      "Furigana": "ジョン ドウ",
+      "EmployeeNo": "EMP001",
+      "ContractType": "Full-time",
+      "Department": "IT",
+      "Gender": "Male",
+      "DateOfBirth": "1990-01-15",
+      "Age": 34,
+      "MaritalStatus": "Married",
+      "Nationality": "USA",
+      "ResidenceCardNumber": "RC123456",
+      "ResidenceCard": [
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png"
+      ],
+      "ResidencePeriod": "2024-01-15",
+      "Contact": "john.doe@example.com",
+      "DateOfJoining": "2022-04-01",
+      "CompanyHistory": "2 years",
+      "EndTime": "N/A",
+      "EmploymentStatus": "Active",
+      "DepartmentAffiliation": "Development",
+      "EmergencyContactInJapan": "Jane Doe",
+      "EmergencyContactInJapanPhone": "080-1234-5678",
+      "EmergencyContactInHomeCountry": "Jane Doe Sr.",
+      "EmergencyContactInHomeCountryPhone": "+1-123-456-7890",
+      "EmploymentInsurance": [
+        "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg",
+        "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg"
+      ],
+      "HealthInsurance": [
+        "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png",
+        "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png"
+      ],
+      "Notes": "N/A",
+      "Pension": "Enrolled",
+      "PersonalNumber": "PN123456789"
+    },
+    {
+      "id": "2",
+      "Name": "Alice Smith",
+      "Furigana": "アリス スミス",
+      "EmployeeNo": "EMP002",
+      "ContractType": "Part-time",
+      "Department": "HR",
+      "Gender": "Female",
+      "DateOfBirth": "1985-06-20",
+      "Age": 39,
+      "MaritalStatus": "Single",
+      "Nationality": "UK",
+      "ResidenceCardNumber": "RC654321",
+      "ResidenceCard": [
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png"
+      ],
+      "ResidencePeriod": "2025-06-20",
+      "Contact": "alice.smith@example.com",
+      "DateOfJoining": "2023-03-15",
+      "CompanyHistory": "1 year",
+      "EndTime": "N/A",
+      "EmploymentStatus": "Active",
+      "DepartmentAffiliation": "Recruitment",
+      "EmergencyContactInJapan": "Michael Smith",
+      "EmergencyContactInJapanPhone": "080-8765-4321",
+      "EmergencyContactInHomeCountry": "Emma Smith",
+      "EmergencyContactInHomeCountryPhone": "+44-123-456-7890",
+      "EmploymentInsurance": "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg",
+      "HealthInsurance": "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png",
+      "Notes": "N/A",
+      "Pension": "Enrolled",
+      "PersonalNumber": "PN987654321"
+    },
+    {
+      "id": "3",
+      "Name": "Robert Tanaka",
+      "Furigana": "ロバート タナカ",
+      "EmployeeNo": "EMP003",
+      "ContractType": "Contract",
+      "Department": "Finance",
+      "Gender": "Male",
+      "DateOfBirth": "1992-11-10",
+      "Age": 31,
+      "MaritalStatus": "Married",
+      "Nationality": "Japan",
+      "ResidenceCardNumber": "RC112233",
+      "ResidenceCard": [
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png"
+      ],
+      "ResidencePeriod": "2024-11-10",
+      "Contact": "robert.tanaka@example.com",
+      "DateOfJoining": "2021-01-10",
+      "CompanyHistory": "3 years",
+      "EndTime": "N/A",
+      "EmploymentStatus": "Active",
+      "DepartmentAffiliation": "Accounting",
+      "EmergencyContactInJapan": "Linda Tanaka",
+      "EmergencyContactInJapanPhone": "090-1234-5678",
+      "EmergencyContactInHomeCountry": "Kenji Tanaka",
+      "EmergencyContactInHomeCountryPhone": "+81-123-456-7890",
+      "EmploymentInsurance": [
+        "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg",
+        "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg"
+      ],
+      "HealthInsurance": [
+        "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png",
+        "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png"
+      ],
+      "Notes": "N/A",
+      "Pension": "Enrolled",
+      "PersonalNumber": "PN1112131415"
+    },
+    {
+      "id": "4",
+      "Name": "David Kimura",
+      "Furigana": "デビッド キムラ",
+      "EmployeeNo": "EMP004",
+      "ContractType": "Full-time",
+      "Department": "Marketing",
+      "Gender": "Male",
+      "DateOfBirth": "1988-09-12",
+      "Age": 36,
+      "MaritalStatus": "Married",
+      "Nationality": "Japan",
+      "ResidenceCardNumber": "RC789012",
+      "ResidenceCard": [
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png"
+      ],
+      "ResidencePeriod": "2024-09-19",
+      "Contact": "david.kimura@example.com",
+      "DateOfJoining": "2020-05-10",
+      "CompanyHistory": "4 years",
+      "EndTime": "N/A",
+      "EmploymentStatus": "Active",
+      "DepartmentAffiliation": "Sales",
+      "EmergencyContactInJapan": "Yumi Kimura",
+      "EmergencyContactInJapanPhone": "080-1122-3344",
+      "EmergencyContactInHomeCountry": "Kenichi Kimura",
+      "EmergencyContactInHomeCountryPhone": "+81-789-012-3456",
+      "EmploymentInsurance": "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg",
+      "HealthInsurance": "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png",
+      "Notes": "N/A",
+      "Pension": "Enrolled",
+      "PersonalNumber": "PN789012345"
+    },
+    {
+      "id": "5",
+      "Name": "Emily Johnson",
+      "Furigana": "エミリー ジョンソン",
+      "EmployeeNo": "EMP005",
+      "ContractType": "Part-time",
+      "Department": "Customer Support",
+      "Gender": "Female",
+      "DateOfBirth": "1995-04-22",
+      "Age": 29,
+      "MaritalStatus": "Single",
+      "Nationality": "Canada",
+      "ResidenceCardNumber": "RC334455",
+      "ResidenceCard": [
+        "https://www.moj.go.jp/isa/content/001351960.png",
+        "https://www.moj.go.jp/isa/content/001351960.png"
+      ],
+      "ResidencePeriod": "2026-04-22",
+      "Contact": "emily.johnson@example.com",
+      "DateOfJoining": "2022-10-01",
+      "CompanyHistory": "2 years",
+      "EndTime": "N/A",
+      "EmploymentStatus": "Active",
+      "DepartmentAffiliation": "Customer Service",
+      "EmergencyContactInJapan": "Sarah Johnson",
+      "EmergencyContactInJapanPhone": "080-5566-7788",
+      "EmergencyContactInHomeCountry": "John Johnson",
+      "EmergencyContactInHomeCountryPhone": "+1-555-666-7788",
+      "EmploymentInsurance": "https://seniorguide.jp/img/sng/docs/1144/913/180927kenpo00_o.jpg",
+      "HealthInsurance": "https://www.kyoukaikenpo.or.jp/~/media/Images/honbu/g3/201305/2808kazoku.png",
+      "Notes": "N/A",
+      "Pension": "Enrolled",
+      "PersonalNumber": "PN334455667",
+      "title": "有給休暇",
+      "paid_holiday_date": "2024-07-19"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "date": "2024-07-08",
+      "content": "ご飯を食べました。"
+    },
+    {
+      "id": "2",
+      "date": "2024-07-09",
+      "content": "ご飯を食べました。"
+    },
+    {
+      "id": "3",
+      "date": "2024-07-09",
+      "content": "ご飯を食べました。"
+    },
+    {
+      "id": "4",
+      "date": "2024-07-10",
+      "content": "ご飯を食べました。"
+    },
+    {
+      "id": "5",
+      "date": "2024-07-11",
+      "content": "飯を食べました。",
+      "image": "https://rarejob.com/cms/wp-content/uploads/2024/03/iStock-1442179368_%E6%B5%B7-750x478.jpg"
+    }
+  ],
+  "idea": [
+    {
+      "id": "fb5a",
+      "projectTitle": "abcd",
+      "date": "2024-07-22",
+      "contactAddress": "example@example.com",
+      "projectPeriod": "6 months",
+      "content": "This is a test content"
+    }
+  ],
+  "notify": [
+    {
+      "date": "2024-07-15",
+      "content": "会議",
+      "id": "8872"
+    },
+    {
+      "date": "2024-12-15",
+      "content": "ゲームセンター",
+      "id": "52a3"
+    }
+  ],
+  "projectStaffingExpansion": [
+    {
+      "id": "1",
+      "date": "2024-07-11",
+      "siteName": "秋葉原",
+      "salesPersonName": "木村",
+      "increaseNumber": "5"
+    },
+    {
+      "id": "f726",
+      "date": "2024-07-21",
+      "siteName": "秋葉原",
+      "salesPersonName": "木村",
+      "increaseNumber": "8"
+    }
+  ],
+  "consultationForConcerns": [
+    {
+      "id": "1",
+      "content": "abcdfoasd;oasldk"
+    }
+  ],
+  "classifications": [
+    {
+      "id": "1",
+      "title": "SAP"
+    },
+    {
+      "id": "2",
+      "title": "Ai"
+    },
+    {
+      "id": "3",
+      "title": "Salesforce"
+    }
+  ],
+  "documentUpdates": [],
+  "studentInformation": [
+    {
+      "id": "1",
+      "employee_number": "312312",
+      "employee_name": "サスケ"
+    },
+    {
+      "id": "2",
+      "employee_number": "0523423436",
+      "employee_name": "ナルト"
+    },
+    {
+      "id": "3",
+      "employee_number": "012312312",
+      "employee_name": "カカシ"
+    },
+    {
+      "id": "4",
+      "employee_number": "0112312312",
+      "employee_name": "ナガト"
+    }
+  ],
+  "studentEvaluation": [],
+  "pcs": [],
+  "pc_management": [
+    {
+      "id": "4",
+      "date": "2024-08-21",
+      "mail": "example5@example.com",
+      "name": "中村 健一dasdas",
+      "pc_num": "PC00dsadas5",
+      "application_date": "2024-08-19",
+      "location": "自宅",
+      "user_classification": "3",
+      "user_sale": "田中 花子",
+      "before_user_sale": "山田 太郎",
+      "return_date": "2024-08-17",
+      "account": "kenichi_nakamura",
+      "pc_password": "password202",
+      "manager_account": "admin_nakamura",
+      "manager_password": "adminpassword202",
+      "other": "リモートワーク用",
+      "manager": "佐々木 一郎",
+      "confirmation": "0",
+      "returnStatus": "済み"
+    },
+    {
+      "id": "3",
+      "date": "2024-08-21",
+      "mail": "example5@example.com",
+      "name": "中村 健一",
+      "pc_num": "PC005",
+      "application_date": "2024-08-19",
+      "location": "自宅",
+      "user_classification": "3",
+      "user_sale": "田中 花子",
+      "before_user_sale": "山田 太郎",
+      "return_date": "2024-08-17",
+      "account": "kenichi_nakamura",
+      "pc_password": "password202",
+      "manager_account": "admin_nakamura",
+      "manager_password": "adminpassword202",
+      "other": "リモートワーク用",
+      "manager": "佐々木 一郎",
+      "confirmation": "0",
+      "returnStatus": "未"
+    },
+    {
+      "id": "2",
+      "date": "2024-08-21",
+      "mail": "example5@example.com",
+      "name": "中村 健一",
+      "pc_num": "PC005",
+      "application_date": "2024-08-19",
+      "location": "自宅",
+      "user_classification": "3",
+      "user_sale": "田中 花子",
+      "before_user_sale": "山田 太郎",
+      "return_date": "2024-08-17",
+      "account": "kenichi_nakamura",
+      "pc_password": "password202",
+      "manager_account": "admin_nakamura",
+      "manager_password": "adminpassword202",
+      "other": "リモートワーク用",
+      "manager": "佐々木 一郎",
+      "confirmation": "0",
+      "returnStatus": "未"
+    },
+    {
+      "id": "5",
+      "date": "2024-08-21",
+      "mail": "example5@example.com",
+      "name": "中村 健一",
+      "pc_num": "PC005",
+      "application_date": "2024-08-19",
+      "location": "自宅",
+      "user_classification": "3",
+      "user_sale": "田中 花子",
+      "before_user_sale": "山田 太郎",
+      "return_date": "2024-08-17",
+      "account": "kenichi_nakamura",
+      "pc_password": "password202",
+      "manager_account": "admin_nakamura",
+      "manager_password": "adminpassword202",
+      "other": "リモートワーク用",
+      "manager": "佐々木 一郎",
+      "confirmation": "0",
+      "returnStatus": "未"
+    }
+  ],
+  "notice": [
+    {
+      "date": "2024-07-08",
+      "content": "サッカー元日本代表ＤＦの槙野智章氏が３１日までに自身のＳＮＳを更新。タレントのマツコ・デラックスとの２ショットを公開した。",
+      "id": "835b"
+    },
+    {
+      "date": "2024-07-08",
+      "content": "サッカー元日本代表ＤＦの槙野智章氏が３１日までに自身のＳＮＳを更新。タレントのマツコ・デラックスとの２ショットを公開した。",
+      "id": "eb8c"
+    },
+    {
+      "date": "2024-07-08",
+      "content": "サッカー元日本代表ＤＦの槙野智章氏が３１日までに自身のＳＮＳを更新。タレントのマツコ・デラックスとの２ショットを公開した。",
+      "id": "6e2f"
+    },
+    {
+      "date": "2024-07-08",
+      "content": "サッカー元日本代表ＤＦの槙野智章氏が３１日までに自身のＳＮＳを更新。タレントのマツコ・デラックスとの２ショットを公開した。",
+      "id": "6e33f"
+    },
+    {
+      "date": "2024-07-08",
+      "content": "サッカー元日本代表ＤＦの槙野智章氏が３１日までに自身のＳＮＳを更新。タレントのマツコ・デラックスとの２ショットを公開した。",
+      "id": "6e222f"
+    }
+  ],
+  "paidLeaveLists": [
+    {
+      "id": "3",
+      "date": "2023-07-29",
+      "cause": "病院行く",
+      "vacation_time": 5,
+      "file": ""
+    }
+  ],
+  "usersPaidLeaveManagement": [
+    {
+      "id": "1",
+      "employeeNumber": "001",
+      "name": "山田 太郎",
+      "joiningDate": "2022-04-01",
+      "previousYearGrantDate": "2022-01-01",
+      "previousYearDays": 10,
+      "previousYearExpiryDate": "2022-12-31",
+      "previousYearRemainingDays": 5,
+      "currentYearGrantDate": "2023-01-01",
+      "currentYearDays": 15,
+      "currentYearExpiryDate": "2023-12-31",
+      "remainingDays": 10,
+      "totalRemainingDays": 15
+    },
+    {
+      "id": "2",
+      "employeeNumber": "002",
+      "name": "鈴木 一郎",
+      "joiningDate": "2021-06-15",
+      "previousYearGrantDate": "2021-01-01",
+      "previousYearDays": 12,
+      "previousYearExpiryDate": "2021-12-31",
+      "previousYearRemainingDays": 3,
+      "currentYearGrantDate": "2022-01-01",
+      "currentYearDays": 18,
+      "currentYearExpiryDate": "2022-12-31",
+      "remainingDays": 12,
+      "totalRemainingDays": 15
+    },
+    {
+      "id": "3",
+      "employeeNumber": "003",
+      "name": "田中 花子",
+      "joiningDate": "2020-11-20",
+      "previousYearGrantDate": "2020-01-01",
+      "previousYearDays": 20,
+      "previousYearExpiryDate": "2020-12-31",
+      "previousYearRemainingDays": 10,
+      "currentYearGrantDate": "2021-01-01",
+      "currentYearDays": 20,
+      "currentYearExpiryDate": "2021-12-31",
+      "remainingDays": 8,
+      "totalRemainingDays": 18
+    }
+  ],
+  "messages": [
+    {
+      "id": "354b",
+      "recipients": [
+        "skytech@gmail.com"
+      ],
+      "title": "abcd",
+      "content": "đâsdasdasd",
+      "attachment": null
+    },
+    {
+      "id": "fc84",
+      "recipients": [
+        "skytech@gmail.com",
+        "taro@gmail.com"
+      ],
+      "title": "đâs",
+      "content": "đâsdas",
+      "attachment": null
+    },
+    {
+      "id": "d0f7",
+      "recipients": [
+        "yuki@gmail.com"
+      ],
+      "title": "dasdasd",
+      "content": "dasdasd",
+      "attachment": null
+    },
+    {
+      "id": "2b42",
+      "recipients": [
+        "skytech@gmail.com"
+      ],
+      "title": "dasdasd",
+      "content": "asdasdasdasdas",
+      "attachment": null
+    },
+    {
+      "id": "ffc7",
+      "recipients": [
+        "yuki@gmail.com"
+      ],
+      "title": "dsadasd",
+      "content": "sadasdasda",
+      "attachment": null
+    },
+    {
+      "id": "cbba",
+      "recipients": [
+        "skytech@gmail.com",
+        "taro@gmail.com"
+      ],
+      "title": "csdcsdf",
+      "content": "sdcdcdscsdc",
+      "attachment": null
+    }
+  ],
+  "listTrainReport": [
+    {
+      "totalAmount": 4556,
+      "expenses": [
+        {
+          "id": 1726620982421,
+          "date": "01",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982422,
+          "date": "02",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982423,
+          "date": "03",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982424,
+          "date": "04",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982425,
+          "date": "05",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982426,
+          "date": "06",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982427,
+          "date": "07",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982428,
+          "date": "08",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982429,
+          "date": "09",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982430,
+          "date": "10",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982431,
+          "date": "11",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982432,
+          "date": "12",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982433,
+          "date": "13",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982434,
+          "date": "14",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982435,
+          "date": "15",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982436,
+          "date": "16",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982437,
+          "date": "17",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982438,
+          "date": "18",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982439,
+          "date": "19",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982440,
+          "date": "20",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982441,
+          "date": "21",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982442,
+          "date": "22",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982443,
+          "date": "23",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982444,
+          "date": "24",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": null,
+          "date": "24",
+          "departure": "秋葉原駅",
+          "destination": "上野駅",
+          "amount": "180",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": true
+        },
+        {
+          "id": 1726620982445,
+          "date": "25",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982446,
+          "date": "26",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982447,
+          "date": "27",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982448,
+          "date": "28",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982449,
+          "date": "29",
+          "departure": "",
+          "destination": "",
+          "amount": "",
+          "type": "",
+          "notes": "",
+          "isNew": false
+        },
+        {
+          "id": 1726620982450,
+          "date": "30",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "774",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        },
+        {
+          "id": 1726620982451,
+          "date": "定期券",
+          "departure": "金町駅",
+          "destination": "末広町駅",
+          "amount": "12300",
+          "type": "片道",
+          "notes": "通勤",
+          "isNew": false
+        }
+      ],
+      "id": "dc3f"
+    }
+  ],
+  "managerPaidLeave": [
+    {
+      "id": "1",
+      "name": "Nguyen Van Aaaab",
+      "employeeNumber": "E001",
+      "joiningDate": "2020-04-01",
+      "previousYearGrantDate": "2023-04-01",
+      "previousYearDays": 10,
+      "previousYearExpiryDate": "2024-03-31",
+      "previousYearRemainingDays": 2,
+      "currentYearGrantDate": "2024-04-01",
+      "currentYearDays": 15,
+      "currentYearExpiryDate": "2025-03-31",
+      "remainingDays": 15,
+      "totalRemainingDays": 17,
+      "proportional": "85%"
+    },
+    {
+      "id": "2",
+      "name": "Le Thi B",
+      "employeeNumber": "E002",
+      "joiningDate": "2019-07-15",
+      "previousYearGrantDate": "2023-07-15",
+      "previousYearDays": 12,
+      "previousYearExpiryDate": "2024-07-14",
+      "previousYearRemainingDays": 3,
+      "currentYearGrantDate": "2024-07-15",
+      "currentYearDays": 18,
+      "currentYearExpiryDate": "2025-07-14",
+      "remainingDays": 18,
+      "totalRemainingDays": 21,
+      "proportional": "93%"
+    },
+    {
+      "id": "3",
+      "name": "Tran Van Cccccc",
+      "employeeNumber": "E003",
+      "joiningDate": "2021-01-10",
+      "previousYearGrantDate": "2023-01-10",
+      "previousYearDays": 8,
+      "previousYearExpiryDate": "2024-01-09",
+      "previousYearRemainingDays": 0,
+      "currentYearGrantDate": "2024-01-10",
+      "currentYearDays": 12,
+      "currentYearExpiryDate": "2025-01-09",
+      "remainingDays": 12,
+      "totalRemainingDays": 12,
+      "proportional": "75%"
+    },
+    {
+      "id": "4",
+      "name": "木村 佐藤",
+      "employeeNumber": "E004",
+      "joiningDate": "2018-03-20",
+      "previousYearGrantDate": "2023-03-20",
+      "previousYearDays": 15,
+      "previousYearExpiryDate": "2024-03-19",
+      "previousYearRemainingDays": 4,
+      "currentYearGrantDate": "2024-03-20",
+      "currentYearDays": 20,
+      "currentYearExpiryDate": "2025-03-19",
+      "remainingDays": 20,
+      "totalRemainingDays": 24,
+      "proportional": "96%"
+    },
+    {
+      "id": "5",
+      "name": "Hoang Van E",
+      "employeeNumber": "E005",
+      "joiningDate": "2022-09-05",
+      "previousYearGrantDate": "2023-09-05",
+      "previousYearDays": 5,
+      "previousYearExpiryDate": "2024-09-04",
+      "previousYearRemainingDays": 1,
+      "currentYearGrantDate": "2024-09-05",
+      "currentYearDays": 10,
+      "currentYearExpiryDate": "2025-09-04",
+      "remainingDays": 10,
+      "totalRemainingDays": 11,
+      "proportional": "78%"
+    },
+    {
+      "id": "0d93",
+      "name": "test",
+      "employeeNumber": "1234",
+      "joiningDate": "2024-08-30",
+      "previousYearGrantDate": null,
+      "previousYearExpiryDate": null,
+      "currentYearGrantDate": null,
+      "currentYearExpiryDate": null
+    },
+    {
+      "id": "100d",
+      "name": "test1601",
+      "employeeNumber": "213123121231",
+      "joiningDate": "2024-08-30",
+      "previousYearGrantDate": null,
+      "previousYearExpiryDate": null,
+      "currentYearGrantDate": null,
+      "currentYearExpiryDate": null
+    },
+    {
+      "id": "0023",
+      "name": "testssssss",
+      "employeeNumber": "2131231",
+      "joiningDate": "2024-08-30",
+      "previousYearGrantDate": null,
+      "previousYearExpiryDate": null,
+      "currentYearGrantDate": null,
+      "currentYearExpiryDate": null
+    },
+    {
+      "id": "7ca7",
+      "name": "teststttttt313123",
+      "employeeNumber": "312312312312",
+      "joiningDate": "2024-08-30",
+      "previousYearGrantDate": null,
+      "previousYearExpiryDate": null,
+      "currentYearGrantDate": null,
+      "currentYearExpiryDate": null
+    }
+  ],
+  "techPaidLeave": [
+    {
+      "id": "3",
+      "name": "ccccTran Van C",
+      "employeeNumber": "E003",
+      "joiningDate": "2021-01-10",
+      "previousYearGrantDate": "2023-01-10",
+      "previousYearDays": 8,
+      "previousYearExpiryDate": "2024-01-09",
+      "previousYearRemainingDays": 0,
+      "currentYearGrantDate": "2024-01-10",
+      "currentYearDays": 12,
+      "currentYearExpiryDate": "2025-01-09",
+      "remainingDays": 12,
+      "totalRemainingDays": 12,
+      "proportional": "75%"
+    }
+  ],
+  "siteName": "池袋",
+  "attendance": [
+    {
+      "day": "01",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "0316"
+    },
+    {
+      "day": "02",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "aa7d"
+    },
+    {
+      "day": "03",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "af81"
+    },
+    {
+      "day": "04",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "e32f"
+    },
+    {
+      "day": "05",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "9d4a"
+    },
+    {
+      "day": "06",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "4009"
+    },
+    {
+      "day": "07",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "9279"
+    },
+    {
+      "day": "08",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "601d"
+    },
+    {
+      "day": "09",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "0634"
+    },
+    {
+      "day": "10",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "d2e8"
+    },
+    {
+      "day": "11",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "de07"
+    },
+    {
+      "day": "12",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "931a"
+    },
+    {
+      "day": "13",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "eea7"
+    },
+    {
+      "day": "14",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "4f6c"
+    },
+    {
+      "day": "15",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "da18"
+    },
+    {
+      "day": "16",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "bfd2"
+    },
+    {
+      "day": "17",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "30e9"
+    },
+    {
+      "day": "18",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "e1d5"
+    },
+    {
+      "day": "19",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "b6d5"
+    },
+    {
+      "day": "20",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "61d3"
+    },
+    {
+      "day": "21",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "18e5"
+    },
+    {
+      "day": "22",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "45be"
+    },
+    {
+      "day": "23",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "faaa"
+    },
+    {
+      "day": "24",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "7783"
+    },
+    {
+      "day": "25",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "5359"
+    },
+    {
+      "day": "26",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "5015"
+    },
+    {
+      "day": "27",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "5f27"
+    },
+    {
+      "day": "28",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "be34"
+    },
+    {
+      "day": "29",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "6459"
+    },
+    {
+      "day": "30",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "2538"
+    },
+    {
+      "day": "31",
+      "start": "09:30",
+      "end": "18:30",
+      "break": "01:00",
+      "checked": true,
+      "workDetails": "",
+      "workingHours": "08:00",
+      "id": "4ea6"
+    }
+  ],
+  "onsiteInfo": [],
+  "outSiteInfo": [
+    {
+      "id": "f1d8",
+      "employeeNumber": "A001",
+      "technicianName": "hao",
+      "exitDate": "2024-09-07",
+      "referenceUnitPrice": "hello",
+      "contactName": "long",
+      "skillSheetUpdate": 1,
+      "priceAdjustment": 2
+    },
+    {
+      "id": "4b8c",
+      "employeeNumber": "B001",
+      "technicianName": "hau",
+      "exitDate": "2024-09-03",
+      "contactName": "hao",
+      "skillSheetUpdate": 2,
+      "priceAdjustment": 1,
+      "referenceUnitPrice": "hello"
+    }
+  ],
+  "orderFlower": [
+    {
+      "orderDate": "2024-09-04",
+      "customerName": "山田",
+      "address": "東京都渋谷区1-2",
+      "shippingName": "鈴木",
+      "contents": "ありがとう",
+      "productName": "お花",
+      "amount": 10000,
+      "arrivalTimes": "2024-09-05 14:52:12",
+      "contactName": "田中",
+      "id": "ffa1"
+    },
+    {
+      "orderDate": "2024-09-03",
+      "customerName": "佐藤",
+      "address": "東京都新宿区3-4",
+      "shippingName": "中村",
+      "contents": "お祝い",
+      "productName": "バラ",
+      "amount": 15000,
+      "arrivalTimes": "2024-09-04 09:30:00",
+      "contactName": "鈴木",
+      "id": "ffa2"
+    },
+    {
+      "orderDate": "2024-09-02",
+      "customerName": "高橋",
+      "address": "東京都品川区5-6",
+      "shippingName": "田中",
+      "contents": "お見舞い",
+      "productName": "カーネーション",
+      "amount": 8000,
+      "arrivalTimes": "2024-09-03 11:45:00",
+      "contactName": "中村",
+      "id": "ffa3"
+    },
+    {
+      "orderDate": "2024-09-01",
+      "customerName": "中村",
+      "address": "東京都台東区7-8",
+      "shippingName": "佐藤",
+      "contents": "誕生日",
+      "productName": "チューリップ",
+      "amount": 12000,
+      "arrivalTimes": "2024-09-02 16:00:00",
+      "contactName": "鈴木",
+      "id": "ffa4"
+    }
+  ],
+  "orderSouvenir": [
+    {
+      "id": "64e4",
+      "companyName": "FPT株式会社",
+      "quantity": 2,
+      "contactName": "田中",
+      "date": "2024-09-04",
+      "reaction": "ありがとう"
+    },
+    {
+      "id": "64e5",
+      "companyName": "株式会社NTT",
+      "quantity": 5,
+      "contactName": "佐藤",
+      "date": "2024-09-03",
+      "reaction": "お疲れ様"
+    },
+    {
+      "id": "64e6",
+      "companyName": "楽天株式会社",
+      "quantity": 3,
+      "contactName": "鈴木",
+      "date": "2024-09-02",
+      "reaction": "お世話になりました"
+    },
+    {
+      "id": "64e7",
+      "companyName": "トヨタ自動車",
+      "quantity": 10,
+      "contactName": "高橋",
+      "date": "2024-09-01",
+      "reaction": "感謝しています"
+    }
+  ],
+  "orderCandy": [
+    {
+      "festivalName": "お盆",
+      "contactName": "田中",
+      "customerName": "山田株式会社",
+      "departmentName": "営業",
+      "jobTitle": "部長",
+      "name": "鈴木みもた",
+      "postcode": "129-0099",
+      "address": "東京都渋谷区1-2",
+      "orderNumber": "AK8909",
+      "id": "5b51"
+    },
+    {
+      "festivalName": "新年",
+      "contactName": "佐藤",
+      "customerName": "株式会社高田",
+      "departmentName": "マーケティング",
+      "jobTitle": "課長",
+      "name": "田中宏",
+      "postcode": "135-0073",
+      "address": "東京都江東区3-4",
+      "orderNumber": "BK1234",
+      "id": "5b52"
+    },
+    {
+      "festivalName": "ひな祭り",
+      "contactName": "高橋",
+      "customerName": "株式会社山本",
+      "departmentName": "企画",
+      "jobTitle": "主任",
+      "name": "山田優子",
+      "postcode": "140-0002",
+      "address": "東京都品川区5-6",
+      "orderNumber": "CK5678",
+      "id": "5b53"
+    },
+    {
+      "festivalName": "七夕",
+      "contactName": "中村",
+      "customerName": "株式会社清水",
+      "departmentName": "人事",
+      "jobTitle": "係長",
+      "name": "佐藤修司",
+      "postcode": "150-0001",
+      "address": "東京都渋谷区7-8",
+      "orderNumber": "DK9101",
+      "id": "5b54"
+    }
+  ],
+  "engineer": [
+    {
+      "id": "29f5",
+      "technician_name": "山田",
+      "occupational_classification": "正",
+      "admission_date": "2024-09-05",
+      "settlement_date": "2024-09-05",
+      "contract_related": "派遣",
+      "person_month": 12,
+      "unit_price": "1200",
+      "calculation_range": "qqqq",
+      "settlement_amount": 1400,
+      "contract_renewal_date": "2024-09-05",
+      "settlement_status": 1
+    },
+    {
+      "technician_name": "佐藤",
+      "occupational_classification": "正",
+      "admission_date": "2024-09-05",
+      "settlement_date": "2024-09-05",
+      "contract_related": "契約",
+      "person_month": 9,
+      "unit_price": "1500",
+      "calculation_range": "koko",
+      "settlement_amount": 1700,
+      "contract_renewal_date": "2024-09-05",
+      "id": "29f6"
+    },
+    {
+      "id": "29f7",
+      "technician_name": "鈴木",
+      "occupational_classification": "正",
+      "admission_date": "2024-09-03",
+      "settlement_date": "2024-09-03",
+      "contract_related": "派遣",
+      "person_month": 8,
+      "unit_price": "1400",
+      "calculation_range": "zzzz",
+      "settlement_amount": 1600,
+      "contract_renewal_date": "2024-09-03",
+      "settlement_status": 1
+    },
+    {
+      "id": "29f8",
+      "technician_name": "高橋",
+      "occupational_classification": "個",
+      "admission_date": "2024-09-02",
+      "settlement_date": "2024-09-02",
+      "contract_related": "契約",
+      "person_month": 15,
+      "unit_price": "1300",
+      "calculation_range": "nnnn",
+      "settlement_amount": 1800,
+      "contract_renewal_date": "2024-09-02",
+      "settlement_status": 2
+    },
+    {
+      "id": "29f9",
+      "technician_name": "中村",
+      "occupational_classification": "正",
+      "admission_date": "2024-09-01",
+      "settlement_date": "2024-09-01",
+      "contract_related": "派遣",
+      "person_month": 6,
+      "unit_price": "1600",
+      "calculation_range": "kkkk",
+      "settlement_amount": 2000,
+      "contract_renewal_date": "2024-09-01"
+    },
+    {
+      "id": "29fa",
+      "technician_name": "藤田",
+      "occupational_classification": "個",
+      "admission_date": "2024-08-31",
+      "settlement_date": "2024-08-31",
+      "contract_related": "派遣",
+      "person_month": 20,
+      "unit_price": "1700",
+      "calculation_range": "xxxx",
+      "settlement_amount": 2100,
+      "contract_renewal_date": "2024-08-31",
+      "settlement_status": 2
+    }
+  ],
+  "dailyReport": [
+    {
+      "id": "2ca1",
+      "technician_name": "中村",
+      "dateReport": "2024-09-06",
+      "address": "東京",
+      "content": "今日の仕事終わりました",
+      "issues": "問題ないです"
+    },
+    {
+      "id": "87fd",
+      "technician_name": "中村",
+      "dateReport": "2024-09-05",
+      "address": "神奈川",
+      "content": "今日は神奈川で仕事した",
+      "issues": "無いです",
+      "reference": "特にないです"
+    },
+    {
+      "id": "3bd2",
+      "technician_name": "山田",
+      "dateReport": "2024-09-04",
+      "address": "大阪",
+      "content": "大阪での会議に参加しました",
+      "issues": "少し遅れましたが問題なし",
+      "reference": "次回はもっと早く到着します"
+    },
+    {
+      "id": "4ce3",
+      "technician_name": "山田",
+      "dateReport": "2024-09-03",
+      "address": "名古屋",
+      "content": "名古屋のクライアントと打ち合わせ",
+      "issues": "特に問題なし",
+      "reference": "次回の打ち合わせを設定する必要があります"
+    },
+    {
+      "id": "5df4",
+      "technician_name": "山田",
+      "dateReport": "2024-09-02",
+      "address": "札幌",
+      "content": "札幌での現場作業",
+      "issues": "天候が悪かった",
+      "reference": "次回は天候を確認してから出発する"
+    },
+    {
+      "id": "6gh7",
+      "technician_name": "山田",
+      "dateReport": "2024-09-06",
+      "address": "大阪",
+      "content": "大阪で新しいプロジェクトのキックオフミーティングを行いました。クライアントはとても熱心で、プロジェクトの進行に強い期待を持っています。開発の方向性や仕様に関していくつかの提案がありましたが、大部分は既存の計画に合致していました。チーム内で役割分担についても詳細に話し合い、次のステップを明確にしました。全体的なスケジュールはクライアントの希望に沿って調整する予定です。コミュニケーションの頻度と方法についても合意に達しました。",
+      "issues": "いくつかの技術的な詳細についての意見が割れました。特にフロントエンドとバックエンドの連携に関して、チーム内でまだ最適なアプローチが決まっていません。加えて、クライアント側の担当者が一部の技術的な理解に不安があるようです。特定の要件について、より詳細な説明を求められました。また、リソースの確保に関して、いくつかの制約が出てくる可能性があります。これらの問題に対処するために、次回の会議で再度議論する必要があります。",
+      "reference": "今後の会議で技術的な要件の明確化を行う予定です。"
+    }
+  ],
+  "sharing": []
+}
