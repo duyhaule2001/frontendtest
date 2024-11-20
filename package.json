@@ -43,7 +43,6 @@
         "react-router": "^6.25.1",
         "react-router-dom": "^6.25.1",
         "react-spinners": "^0.14.1",
-        "react-yearly-calendar": "^1.2.6",
         "redux": "^5.0.1",
         "rimraf": "^6.0.1",
         "tippy.js": "^6.3.7",
